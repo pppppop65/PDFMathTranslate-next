@@ -11,7 +11,7 @@
   <a href="https://pepy.tech/projects/pdf2zh-next">
     <img src="https://static.pepy.tech/badge/pdf2zh-next"></a>
   <a href="https://hub.docker.com/repository/docker/awwaawwa/pdfmathtranslate-next/tags">
-    <img src="https://img.shields.io/docker/pulls/awwaawwa/pdfmathtranslate-next/tags"></a>
+    <img src="https://img.shields.io/docker/pulls/awwaawwa/pdfmathtranslate-next"></a>
   <a href="https://hellogithub.com/repository/8ec2cfd3ef744762bf531232fa32bc47" target="_blank"><img src="https://api.hellogithub.com/v1/widgets/recommend.svg?rid=8ec2cfd3ef744762bf531232fa32bc47&claim_uid=JQ0yfeBNjaTuqDU&theme=small" alt="Featured｜HelloGitHub" /></a>
   <!-- <a href="https://gitcode.com/PDFMathTranslate/PDFMathTranslate-next/overview">
     <img src="https://gitcode.com/PDFMathTranslate/PDFMathTranslate-next/star/badge.svg"></a> -->
@@ -168,7 +168,7 @@ We welcome the active participation of contributors to make pdf2zh better. Befor
   <img src="https://opencollective.com/PDFMathTranslate/contributors.svg?width=890&button=false" />
 </a>
 
-![Alt](https://repobeats.axiom.co/api/embed/dfa7583da5332a11468d686fbd29b92320a6a869.svg "Repobeats analytics image")
+![Alt](https://repobeats.axiom.co/api/embed/45529651750579e099960950f757449a410477ad.svg "Repobeats analytics image")
 
 <h2 id="star_hist">Star History</h2>
 

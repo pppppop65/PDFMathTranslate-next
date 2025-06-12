@@ -358,6 +358,7 @@ def _build_translate_settings(
     formular_font_pattern = ui_inputs.get("formular_font_pattern")
     formular_char_pattern = ui_inputs.get("formular_char_pattern")
     auto_enable_ocr_workaround = ui_inputs.get("auto_enable_ocr_workaround")
+    only_include_translated_page = ui_inputs.get("only_include_translated_page")
 
     # New input for custom_system_prompt
     custom_system_prompt_input = ui_inputs.get("custom_system_prompt_input")
@@ -434,6 +435,7 @@ def _build_translate_settings(
     translate_settings.pdf.translate_table_text = translate_table_text
     translate_settings.pdf.skip_scanned_detection = skip_scanned_detection
     translate_settings.pdf.auto_enable_ocr_workaround = auto_enable_ocr_workaround
+    translate_settings.pdf.only_include_translated_page = only_include_translated_page
 
     if max_pages_per_part is not None and max_pages_per_part > 0:
         translate_settings.pdf.max_pages_per_part = int(max_pages_per_part)
@@ -499,6 +501,7 @@ def _build_translate_settings(
         translate_settings.pdf.pages = original_pages
         translate_settings.gui_settings = original_gui_settings
         translate_settings.basic.gui = False
+        translate_settings.basic.debug = False
         if not settings.gui_settings.disable_config_auto_save:
             config_manager.write_user_default_config_file(settings=translate_settings)
         settings.validate_settings()
@@ -646,6 +649,7 @@ async def translate_file(
     state,
     ocr_workaround,
     auto_enable_ocr_workaround,
+    only_include_translated_page,
     *translation_engine_arg_inputs,
     progress=None,
 ):
@@ -728,6 +732,7 @@ async def translate_file(
         "ignore_cache": ignore_cache,
         "ocr_workaround": ocr_workaround,
         "auto_enable_ocr_workaround": auto_enable_ocr_workaround,
+        "only_include_translated_page": only_include_translated_page,
     }
     for arg_name, arg_input in zip(
         __gui_service_arg_names, translation_engine_arg_inputs, strict=False
@@ -750,7 +755,7 @@ async def translate_file(
 
         # Wait for the translation to complete
         mono_path, dual_path = await task
-        if not mono_path.exists():
+        if not mono_path or not mono_path.exists():
             mono_path = None
         else:
             mono_path = mono_path.as_posix()
@@ -978,6 +983,13 @@ with gr.Blocks(
                 visible=False,
                 interactive=True,
                 placeholder="e.g., 1,3,5-10",
+            )
+
+            only_include_translated_page = gr.Checkbox(
+                label="Only include translated pages in the output PDF.",
+                info="Effective only when a page range is specified.",
+                value=settings.pdf.only_include_translated_page,
+                interactive=True,
             )
 
             # PDF Output Options
@@ -1318,6 +1330,7 @@ with gr.Blocks(
             state,
             ocr_workaround,
             auto_enable_ocr_workaround,
+            only_include_translated_page,
             *translation_engine_arg_inputs,
         ],
         outputs=[
@@ -1337,7 +1350,7 @@ with gr.Blocks(
     )
 
 
-def parse_user_passwd(file_path: str, welcome_page:str) -> tuple[list, str]:
+def parse_user_passwd(file_path: str, welcome_page: str) -> tuple[list, str]:
     """
     This function parses a user password file.
 
@@ -1390,8 +1403,7 @@ def setup_gui(
     user_list = None
     html = None
 
-    
-    user_list, html = parse_user_passwd(auth_file,welcome_page)
+    user_list, html = parse_user_passwd(auth_file, welcome_page)
 
     if not auth_file or not user_list:
         try:
