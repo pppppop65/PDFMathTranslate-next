@@ -36,7 +36,7 @@
 
 ### Contributor Checklist
 
-- [ ] I have fully read and understood the **[CONTRIBUTING.md](https://funstory-ai.github.io/BabelDOC/CONTRIBUTING/)** guide.
+- [ ] I have fully read and understood the **[CONTRIBUTING GUIDE](https://pdf2zh-next.com/community/Contribution-Guide.html)**.
 - [ ] I have performed a self-review of my own code.
 - [ ] My changes follow the project's code style and guidelines
 - [ ] I have linked the related issue(s) in the description above (if applicable)
