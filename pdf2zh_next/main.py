@@ -14,7 +14,7 @@ from pathlib import Path
 from pdf2zh_next.config import ConfigManager
 from pdf2zh_next.high_level import do_translate_file_async
 
-__version__ = "2.1.0"
+__version__ = "2.1.2"
 
 logger = logging.getLogger(__name__)
 
@@ -89,6 +89,7 @@ async def main() -> int:
         setup_gui(
             auth_file=settings.gui_settings.auth_file,
             welcome_page=settings.gui_settings.welcome_page,
+            server_port=settings.gui_settings.server_port,
         )
         return 0
 
