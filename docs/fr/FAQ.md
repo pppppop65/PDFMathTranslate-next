@@ -5,7 +5,7 @@ Certaines questions sont fréquemment posées, nous avons donc fourni une liste 
 Comme le programme utilise l'intelligence artificielle pour reconnaître et extraire des documents, un GPU est-il nécessaire ?
 
 - **Réponse**:
-**Un GPU est-il nécessaire ?** Mais si vous avez un GPU, le programme l'utilisera automatiquement pour une meilleure performance.
+**Un GPU est-il nécessaire ?** Non, un GPU n'est pas requis. Mais si vous en avez un, le programme l'utilisera automatiquement pour une meilleure performance.
 
 ## Téléchargement interrompu ?
 - **Question**:
@@ -14,7 +14,7 @@ J'ai rencontré l'erreur d'interruption suivante lors du téléchargement du mod
   ![image](https://github.com/user-attachments/assets/3c4eed44-3d9b-4e2f-a224-a58edca718c2)
 
 - **Réponse**:
-Le réseau subit des interférences, veuillez utiliser une connexion réseau stable ou essayer de contourner l'intervention du réseau.
+Le réseau subit des interférences, veuillez utiliser une connexion stable ou essayer de contourner l'intervention du réseau.
 
 ## Comment mettre à jour vers la dernière version ?
 - **Question**:
@@ -26,7 +26,7 @@ Je souhaite utiliser certaines fonctionnalités de la dernière version, comment
 
 ## Les fichiers suivants n'existent pas : example.pdf
 - **Problème**:
-Lors de l'exécution du programme, les utilisateurs auront les sorties suivantes : `Les fichiers suivants n'existent pas : example.pdf` si le document n'a pas été trouvé.
+Lors de l'exécution du programme, les utilisateurs auront les sorties suivantes : `The following files do not exist: example.pdf` si le document n'a pas été trouvé.
 
 - **Solution** :
   - Ouvrez la ligne de commande dans le répertoire où se trouve le fichier, ou
@@ -43,14 +43,16 @@ Lors du téléchargement des modèles de hugging face, les utilisateurs en Chine
   - [Utiliser le miroir Hugging Face](https://hf-mirror.com/).
   - [Utiliser la version portable](https://github.com/PDFMathTranslate/PDFMathTranslate-next?tab=readme-ov-file#method-ii-portable).
   - [Utiliser Docker à la place](https://github.com/PDFMathTranslate/PDFMathTranslate-next#docker).
-  - [Mettre à jour les certificats](https://stackoverflow.com/questions/51925384/unable-to-get-local-issuer-certificate-when-using-requests), comme suggéré dans [issue #55](https://github.com/PDFMathTranslate/PDFMathTranslate-next/issues/55).
+  - [Mettre à jour les certificats](https://stackoverflow.com/questions/51925384/unable-to-get-local-issuer-certificate-when-using-requests), comme suggéré dans [l'issue #55](https://github.com/PDFMathTranslate/PDFMathTranslate-next/issues/55).
 
 ## Localhost n'est pas accessible
-Veuillez consulter ci-dessous.
+Veuillez voir ci-dessous.
+
+```
 
 ## Erreur lors du lancement de l'interface graphique avec 0.0.0.0
 - **Problème**:
-L'utilisation d'un logiciel de proxy en mode global peut empêcher Gradio de démarrer correctement. Par exemple, dans [issue #77](https://github.com/PDFMathTranslate/PDFMathTranslate-next/issues/77).
+L'utilisation d'un logiciel de proxy en mode global peut empêcher Gradio de démarrer correctement. Par exemple, dans [l'issue #77](https://github.com/PDFMathTranslate/PDFMathTranslate-next/issues/77).
 
 - **Solution**:
 Utiliser le mode règle

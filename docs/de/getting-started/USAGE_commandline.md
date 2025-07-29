@@ -1,4 +1,4 @@
-[**Erste Schritte**](./erste-schritte.md) > **Verwendung** > **Kommandozeile** _(current)_
+[**Erste Schritte**](./getting-started.md) > **Verwendung** > **Kommandozeile** _(current)_
 
 ---
 
@@ -18,12 +18,12 @@ pdf2zh_next document.pdf
 > 
 > ```bash
 > pdf2zh_next "path with spaces/document.pdf"
->
+> ```
 
 Nach der Ausführung der Übersetzung werden Dateien im **aktuellen Arbeitsverzeichnis** erstellt.
 
 > [!TIP]
-> **Wo ist mein "aktuelles Arbeitsverzeichnis"?**
+> **Wo befindet sich mein "Aktuelles Arbeitsverzeichnis"?**
 > Bevor Sie einen Befehl im Terminal eingeben, sehen Sie möglicherweise einen Pfadnamen in Ihrem Terminal:
 > 
 > ```powershell
@@ -44,7 +44,7 @@ Nach der Ausführung der Übersetzung werden Dateien im **aktuellen Arbeitsverze
 
 #### Erweiterte Optionen
 
-Für detaillierte Erklärungen zu zusätzlichen Kommandozeilenparametern lesen Sie bitte [erweiterte Optionen](./../advanced/advanced.md).
+Für detaillierte Erklärungen zu zusätzlichen Kommandozeilenparametern lesen Sie bitte die [erweiterten Optionen](./../advanced/advanced.md).
 
 <div align="right"> 
 <h6><small>Ein Teil des Inhalts dieser Seite wurde von GPT übersetzt und kann Fehler enthalten.</small></h6>

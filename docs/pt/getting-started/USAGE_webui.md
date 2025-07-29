@@ -1,4 +1,4 @@
-[**Começar**](./comecar.md) > **Instalação** > **WebUI** _(atual)_
+[**Começar**](./getting-started.md) > **Instalação** > **WebUI** _(atual)_
 
 ---
 
@@ -18,13 +18,13 @@ Existem vários métodos para abrir a interface WebUI. Se você estiver usando *
     pdf2zh_next --gui
     ```
 
-4. Se o seu navegador não foi iniciado automaticamente, acesse
+4. Se seu navegador não foi iniciado automaticamente, acesse
 
     ```bash
     http://localhost:7860/
     ```
 
-    Solte o arquivo PDF na janela e clique em `Translate`.
+    Arraste o arquivo PDF para a janela e clique em `Translate`.
 
 <!-- <img src="./images/gui.gif" width="500"/> -->
 <img src='./../images/gui.gif' width="500"/>

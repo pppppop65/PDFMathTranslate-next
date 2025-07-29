@@ -6,7 +6,7 @@
 
 Quelle <https://developers.google.com/admin-sdk/directory/v1/languages?hl=zh-cn>, organisiert von GPT-4o.
 
-| Label in Chinese | Label | `Language Code` |
+| Bezeichnung auf Chinesisch | Bezeichnung | `Language Code` |
 | --- | --- | --- |
 | Amharisch | Amharic | `am` |
 | Arabisch | Arabic | `ar` |
@@ -22,13 +22,13 @@ Quelle <https://developers.google.com/admin-sdk/directory/v1/languages?hl=zh-cn>
 | Dänisch | Danish | `da` |
 | Niederländisch | Dutch | `nl` |
 | Englisch (USA) | English (US) | `en` |
-| 爱沙尼亚语 | Estonian | `et` |
+| Estnisch | Estonian | `et` |
 | Philippinisch | Filipino | `fil` |
 | Finnisch | Finnish | `fi` |
 | Französisch | French | `fr` |
 | Deutsch | German | `de` |
 | Griechisch | Greek | `el` |
-| 古吉拉特语 | Gujarati | `gu` |
+| Gujarati | Gujarati | `gu` |
 | Hebräisch | Hebrew | `iw` |
 | Hindi | Hindi | `hi` |
 | Ungarisch | Hungarian | `hu` |
@@ -40,7 +40,7 @@ Quelle <https://developers.google.com/admin-sdk/directory/v1/languages?hl=zh-cn>
 | Koreanisch | Korean | `ko` |
 | Lettisch | Latvian | `lv` |
 | Litauisch | Lithuanian | `lt` |
-| 马来语 | Malay | `ms` |
+| Malaiisch | Malay | `ms` |
 | 马拉雅拉姆语 | Malayalam | `ml` |
 | 马拉地语 | Marathi | `mr` |
 | Norwegisch | Norwegian | `no` |
@@ -49,7 +49,7 @@ Quelle <https://developers.google.com/admin-sdk/directory/v1/languages?hl=zh-cn>
 | Rumänisch | Romanian | `ro` |
 | Russisch | Russian | `ru` |
 | Serbisch | Serbian | `sr` |
-| Deutsch (Deutschland) | German (Germany) | `de-DE` |
+| Chinesisch (China) | Chinese (PRC) | `zh-CN` |
 | Slowakisch | Slovak | `sk` |
 | Slowenisch | Slovenian | `sl` |
 | Spanisch | Spanish | `es` |
@@ -79,7 +79,7 @@ Quelle <https://developers.deepl.com/docs/resources/supported-languages>, organi
 | Griechisch | Greek | `EL` | `source`, `target` |
 | Englisch | English | `EN` | `source`, `target` |
 | Englisch (UK) | English (British) | `EN-GB` | `target` |
-| Englisch (Amerikanisch) | English (American) | `EN-US` | `target` |
+| Englisch (USA) | English (American) | `EN-US` | `target` |
 | Spanisch | Spanish | `ES` | `source`, `target` |
 | Estnisch | Estonian | `ET` | `source`, `target` |
 | Finnisch | Finnish | `FI` | `source`, `target` |
@@ -87,11 +87,11 @@ Quelle <https://developers.deepl.com/docs/resources/supported-languages>, organi
 | Ungarisch | Hungarian | `HU` | `source`, `target` |
 | Indonesisch | Indonesian | `ID` | `source`, `target` |
 | Italienisch | Italian | `IT` | `source`, `target` |
-| Japanisch | Japanese | `JA` | `source`, `target` |
+| 日语 | Japanese | `JA` | `source`, `target` |
 | Koreanisch | Korean | `KO` | `source`, `target` |
 | Litauisch | Lithuanian | `LT` | `source`, `target` |
 | Lettisch | Latvian | `LV` | `source`, `target` |
-| 挪威博克马尔语 | Norwegian Bokmål | `NB` | `source`, `target` |
+| Norwegisch Bokmål | Norwegian Bokmål | `NB` | `source`, `target` |
 | Niederländisch | Dutch | `NL` | `source`, `target` |
 | Polnisch | Polish | `PL` | `source`, `target` |
 | Portugiesisch | Portuguese | `PT` | `source`, `target` |
@@ -105,7 +105,7 @@ Quelle <https://developers.deepl.com/docs/resources/supported-languages>, organi
 | Türkisch | Turkish | `TR` | `source`, `target` |
 | Ukrainisch | Ukrainian | `UK` | `source`, `target` |
 | Deutsch | German | `DE` | `source`, `target` |
-| 中文（简体） | Chinese (Simplified) | `ZH-HANS` | `target` |
+| Chinesisch (Vereinfacht) | Chinese (Simplified) | `ZH-HANS` | `target` |
 | 中文（繁体） | Chinese (Traditional) | `ZH-HANT` | `target` |
 
 <div align="right"> 

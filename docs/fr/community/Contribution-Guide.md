@@ -11,13 +11,13 @@ Merci de votre intérêt pour ce projet ! Avant de commencer à contribuer, veui
 ## Types de contributions non acceptées
 
 1. Internationalisation/traduction de la documentation
-2. Contributions liées à l'infrastructure de base, telles que l'API HTTP, etc.
-3. Problèmes explicitement marqués comme "No help needed" (y compris les problèmes dans les dépôts [Byaidu/PDFMathTranslate](Byaidu/PDFMathTranslate) et [PDFMathTranslate/PDFMathTranslate-next](PDFMathTranslate/PDFMathTranslate-next)).
+2. Contributions liées à l'infrastructure principale, telles que l'API HTTP, etc.
+3. Problèmes explicitement marqués comme "Aucune aide nécessaire" (y compris les problèmes dans les dépôts [Byaidu/PDFMathTranslate](Byaidu/PDFMathTranslate) et [PDFMathTranslate/PDFMathTranslate-next](PDFMathTranslate/PDFMathTranslate-next)).
 4. Autres contributions jugées inappropriées par les mainteneurs.
 5. Contribution à la documentation, mais modification de la documentation dans des langues autres que l'anglais.
 6. PRs nécessitant la modification de fichiers PDF.
 
-Veuillez NE PAS soumettre de PR liés aux types mentionnés ci-dessus.
+Veuillez NE PAS soumettre de PR liées aux types mentionnés ci-dessus.
 
 > [!NOTE]
 >
@@ -39,19 +39,19 @@ Veuillez NE PAS soumettre de PR liés aux types mentionnés ci-dessus.
 
 > [!TIP]
 >
-> Vous n'avez pas besoin d'attendre que votre développement soit entièrement terminé pour créer une PR. En créer une tôt nous permet de revoir votre implémentation et de fournir des suggestions.
+> Vous n'avez pas besoin d'attendre que votre développement soit entièrement terminé pour créer une PR. En créer une tôt nous permet d'examiner votre implémentation et de fournir des suggestions.
 >
 > Si vous avez des questions sur le code source ou des sujets connexes, veuillez contacter le mainteneur à aw@funstory.ai.
 >
 > Les fichiers de ressources pour la version 2.0 sont partagés avec [BabelDOC](https://github.com/funstory-ai/BabelDOC). Le code pour télécharger les ressources associées se trouve dans BabelDOC. Si vous souhaitez ajouter de nouveaux fichiers de ressources, veuillez contacter le mainteneur de BabelDOC à aw@funstory.ai.
 
-## Prérequis de base
+## Exigences de base
 
 <h4 id="sop">1. Flux de travail</h4>
 
 - Veuillez forker à partir de la branche `main` et développer sur votre branche forkée.
    - Lors de la soumission d'une Pull Request (PR), fournissez une description détaillée de vos modifications.
-   - Si votre PR ne passe pas les vérifications automatiques (indiquées par `checks failed` et une croix rouge), veuillez examiner les `details` correspondants et modifier votre soumission pour vous assurer que la nouvelle PR passe toutes les vérifications.
+   - Si votre PR ne passe pas les vérifications automatiques (indiquées par `checks failed` et une croix rouge), veuillez examiner les `details` correspondants et modifier votre soumission pour garantir que la nouvelle PR passe toutes les vérifications.
 
 
 <h4 id="dev&test">2. Développement et tests</h4>
@@ -82,7 +82,7 @@ Veuillez NE PAS soumettre de PR liés aux types mentionnés ci-dessus.
 <h4 id="codestyle">7. Style de codage</h4>
 
 - Assurez-vous que le code soumis respecte les normes de base de style de codage.
-   - Utilisez soit snake_case soit camelCase pour la nomination des variables.
+   - Utilisez soit snake_case soit camelCase pour la dénomination des variables.
 
 
 <h4 id="doctypo">8. Formatage de la documentation</h4>
@@ -98,7 +98,7 @@ Veuillez NE PAS soumettre de PR liés aux types mentionnés ci-dessus.
 
 > [!NOTE]
 >
-> Ce projet n'a pas pour objectif de prendre en charge les moteurs de traduction avec un RPS (requêtes par seconde) inférieur à 4. Veuillez ne pas soumettre de support pour ces moteurs.
+> Ce projet n'a pas l'intention de prendre en charge les moteurs de traduction avec un RPS (requêtes par seconde) inférieur à 4. Veuillez ne pas soumettre de support pour de tels moteurs.
 
 ## Structure du projet
 
@@ -110,13 +110,13 @@ Veuillez NE PAS soumettre de PR liés aux types mentionnés ci-dessus.
 - **high_level.py** : Interfaces de haut niveau basées sur BabelDOC.
 - **http_api.py** : Fournit une API HTTP (non démarrée).
 
-## Nous contacter
+## Contactez-nous
 
 Si vous avez des questions, veuillez soumettre vos commentaires via Issue ou rejoindre notre groupe Telegram. Merci pour votre contribution !
 
 > [!TIP]
 >
-> [Immersive Translate](https://immersivetranslate.com) sponsorise des codes d'abonnement Pro mensuels pour les contributeurs actifs de ce projet. Pour plus de détails, consultez : [BabelDOC/PDFMathTranslate Règles de récompense des contributeurs](https://funstory-ai.github.io/BabelDOC/CONTRIBUTOR_REWARD/)
+> [Immersive Translate](https://immersivetranslate.com) sponsorise des codes d'abonnement Pro mensuels pour les contributeurs actifs de ce projet. Pour plus de détails, veuillez consulter : [Règles de récompense des contributeurs BabelDOC/PDFMathTranslate](https://funstory-ai.github.io/BabelDOC/CONTRIBUTOR_REWARD/)
 
 <div align="right"> 
 <h6><small>Une partie du contenu de cette page a été traduite par GPT et peut contenir des erreurs.</small></h6>

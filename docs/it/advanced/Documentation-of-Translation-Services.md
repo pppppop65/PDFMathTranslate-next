@@ -4,7 +4,7 @@
 
 ### Visualizzare i servizi di traduzione disponibili tramite Riga di comando
 
-Puoi confermare i servizi di traduzione disponibili e il loro utilizzo stampando il messaggio di aiuto nella Riga di comando.
+Puoi verificare i servizi di traduzione disponibili e il loro utilizzo stampando il messaggio di aiuto nella Riga di comando.
 
 ```bash
 pdf2zh_next -h
@@ -41,7 +41,7 @@ Abbiamo fornito una tabella dettagliata sulle [variabili d'ambiente](https://cha
 | **Ollama**           | `ollama`       | `OLLAMA_HOST`, `OLLAMA_MODEL`                                         | `http://127.0.0.1:11434`, `gemma2`                       | Vedi [Ollama](https://github.com/ollama/ollama)                                                                                                                                                                             |
 | **Xinference**       | `xinference`   | `XINFERENCE_HOST`, `XINFERENCE_MODEL`                                 | `http://127.0.0.1:9997`, `gemma-2-it`                    | Vedi [Xinference](https://github.com/xorbitsai/inference)                                                                                                                                                                   |
 | **OpenAI**           | `openai`       | `OPENAI_BASE_URL`, `OPENAI_API_KEY`, `OPENAI_MODEL`                   | `https://api.openai.com/v1`, `[Your Key]`, `gpt-4o-mini` | Vedi [OpenAI](https://platform.openai.com/docs/overview)                                                                                                                                                                    |
-| **AzureOpenAI**      | `azure-openai` | `AZURE_OPENAI_BASE_URL`, `AZURE_OPENAI_API_KEY`, `AZURE_OPENAI_MODEL` | `[Your Endpoint]`, `[Your Key]`, `gpt-4o-mini`           | Vedere [Azure OpenAI](https://learn.microsoft.com/zh-cn/azure/ai-services/openai/chatgpt-quickstart?tabs=command-line%2Cjavascript-keyless%2Ctypescript-keyless%2Cpython&pivots=programming-language-python)                  |
+| **AzureOpenAI**      | `azure-openai` | `AZURE_OPENAI_BASE_URL`, `AZURE_OPENAI_API_KEY`, `AZURE_OPENAI_MODEL` | `[Your Endpoint]`, `[Your Key]`, `gpt-4o-mini`           | Vedi [Azure OpenAI](https://learn.microsoft.com/zh-cn/azure/ai-services/openai/chatgpt-quickstart?tabs=command-line%2Cjavascript-keyless%2Ctypescript-keyless%2Cpython&pivots=programming-language-python)                  |
 | **Zhipu**            | `zhipu`        | `ZHIPU_API_KEY`, `ZHIPU_MODEL`                                        | `[Your Key]`, `glm-4-flash`                              | Vedi [Zhipu](https://open.bigmodel.cn/dev/api/thirdparty-frame/openai-sdk)                                                                                                                                                  |
 | **ModelScope**       | `ModelScope`   | `MODELSCOPE_API_KEY`, `MODELSCOPE_MODEL`                              | `[Your Key]`, `Qwen/Qwen2.5-Coder-32B-Instruct`          | Vedi [ModelScope](https://www.modelscope.cn/docs/model-service/API-Inference/intro)                                                                                                                                         |
 | **Silicon**          | `silicon`      | `SILICON_API_KEY`, `SILICON_MODEL`                                    | `[Your Key]`, `Qwen/Qwen2.5-7B-Instruct`                 | Vedi [SiliconCloud](https://docs.siliconflow.cn/quickstart)                                                                                                                                                                 |
@@ -57,9 +57,9 @@ Abbiamo fornito una tabella dettagliata sulle [variabili d'ambiente](https://cha
 | **OpenAI-Liked**     | `openailiked`  | `OPENAILIKED_BASE_URL`, `OPENAILIKED_API_KEY`, `OPENAILIKED_MODEL`    | `url`, `[Your Key]`, `model name`                        | None                                                                                                                                                                                                                       |
 | **Ali Qwen Translation** | `qwen-mt`  | `ALI_MODEL`, `ALI_API_KEY`, `ALI_DOMAINS`                             | `qwen-mt-turbo`, `[Your Key]`, `scientific paper`        | Il cinese tradizionale non è ancora supportato, verrà tradotto in cinese semplificato. Per maggiori informazioni vedi [Qwen MT](https://bailian.console.aliyun.com/?spm=5176.28197581.0.0.72e329a4HRxe99#/model-market/detail/qwen-mt-turbo) |
 
-Per i grandi modelli linguistici compatibili con l'API OpenAI ma non elencati nella tabella sopra, puoi impostare le variabili d'ambiente utilizzando lo stesso metodo descritto per OpenAI nella tabella.
+Per i grandi modelli linguistici compatibili con l'API OpenAI ma non elencati nella tabella sopra, è possibile impostare le variabili d'ambiente utilizzando lo stesso metodo descritto per OpenAI nella tabella.
 
-Usa `-s service` o `-s service:model` per specificare il servizio:
+Utilizza `-s service` o `-s service:model` per specificare il servizio:
 
 ```bash
 pdf2zh_next example.pdf -s openai:gpt-4o-mini

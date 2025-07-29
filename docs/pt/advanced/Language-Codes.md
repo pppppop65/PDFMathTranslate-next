@@ -23,12 +23,12 @@ Fonte <https://developers.google.com/admin-sdk/directory/v1/languages?hl=zh-cn>,
 | Holandês | Dutch | `nl` |
 | Inglês (EUA) | English (US) | `en` |
 | Estoniano | Estonian | `et` |
-| Filipino | Filipino | `fil` |
+|  Filipino  | Filipino | `fil` |
 | Finlandês | Finnish | `fi` |
 | Francês | French | `fr` |
 | Alemão | German | `de` |
 | Grego | Greek | `el` |
-| 古吉拉特语 | Gujarati | `gu` |
+| Guzerate | Gujarati | `gu` |
 | Hebraico | Hebrew | `iw` |
 | 印地语 | Hindi | `hi` |
 | Húngaro | Hungarian | `hu` |
@@ -58,7 +58,7 @@ Fonte <https://developers.google.com/admin-sdk/directory/v1/languages?hl=zh-cn>,
 | Tâmil | Tamil | `ta` |
 | Télugo | Telugu | `te` |
 | Tailandês | Thai | `th` |
-| Chinês (Taiwan) | Chinese (Taiwan) | `zh-TW` |
+| 中文（Taiwan） | Chinese (Taiwan) | `zh-TW` |
 | Turco | Turkish | `tr` |
 | Urdu | Urdu | `ur` |
 | Ucraniano | Ukrainian | `uk` |
@@ -87,7 +87,7 @@ Fonte <https://developers.deepl.com/docs/resources/supported-languages>, organiz
 | Húngaro | Hungarian | `HU` | `source`, `target` |
 | Indonésio | Indonesian | `ID` | `source`, `target` |
 | Italiano | Italian | `IT` | `source`, `target` |
-| 日本語 | Japanese | `JA` | `source`, `target` |
+| Japonês | Japanese | `JA` | `source`, `target` |
 | Coreano | Korean | `KO` | `source`, `target` |
 | Lituano | Lithuanian | `LT` | `source`, `target` |
 | Letão | Latvian | `LV` | `source`, `target` |

@@ -1,4 +1,4 @@
-[**始め方**](./始め方.md) > **インストール** > **uv** _(current)_
+[**開始**](./getting-started.md) > **インストール** > **uv** _(current)_
 
 ---
 
@@ -23,7 +23,7 @@ uv をコンピュータにインストールするには、[この記事](https
     uv tool install --python 3.13 pdf2zh-next
     ```
 
-インストール後、**コマンドライン**または**WebUI**を介して翻訳を開始できます。
+インストール後、**コマンドライン**または**WebUI**から翻訳を開始できます。
 
 !!! Warning
 
@@ -41,7 +41,7 @@ uv をコンピュータにインストールするには、[この記事](https
 
     === "Windows"
 
-        PowerShell で以下を入力:
+        PowerShellで以下を入力:
 
         ```powershell
         $env:Path = "C:\Users\Username\.local\bin;$env:Path"
@@ -50,10 +50,10 @@ uv をコンピュータにインストールするには、[この記事](https
         その後、ターミナルを再起動
 
 > [!NOTE]
-> WebUI 使用中に問題が発生した場合は、[使い方 --> WebUI](./USAGE_webui.md)を参照してください。
+> WebUI の使用中に問題が発生した場合は、[使い方 --> WebUI](./USAGE_webui.md)を参照してください。
 
 > [!NOTE]
-> コマンドライン使用中に問題が発生した場合は、[使い方 --> コマンドライン](./USAGE_commandline.md)を参照してください。
+> コマンドラインの使用中に問題が発生した場合は、[使い方 --> コマンドライン](./USAGE_commandline.md)を参照してください。
 
 <div align="right"> 
 <h6><small>このページの一部のコンテンツは GPT によって翻訳されており、エラーが含まれている可能性があります。</small></h6>

@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./../../docs/images/banner.png" width="320px"  alt="banner"/>
+<img src="./docs/images/banner.png" width="320px"  alt="banner"/>
 
-<h2 id="titel">PDFMathTranslate</h2>
+<h2 id="title">PDFMathTranslate</h2>
 
 <p>
   <!-- PyPI -->
@@ -32,24 +32,24 @@
 
 </div>
 
-PDF wissenschaftliche Artikel Übersetzung und bilingualer Vergleich.
+PDF wissenschaftliche Artikelübersetzung und bilingualer Vergleich.
 
-- 📊 Formeln, Diagramme, Inhaltsverzeichnisse und Anmerkungen beibehalten _([Vorschau](#preview))_.
+- 📊 Erhalten Sie Formeln, Diagramme, Inhaltsverzeichnisse und Anmerkungen _([Vorschau](#preview))_.
 - 🌐 Unterstützt [mehrere Sprachen](https://pdf2zh-next.com/supported_languages.html) und verschiedene [Übersetzungsdienste](https://pdf2zh-next.com/advanced/Documentation-of-Translation-Services.html).
 - 🤖 Bietet [Kommandozeilen-Tool](https://pdf2zh-next.com/getting-started/USAGE_commandline.html), [interaktive Benutzeroberfläche](https://pdf2zh-next.com/getting-started/USAGE_webui.html) und [Docker](https://pdf2zh-next.com/getting-started/INSTALLATION_docker.html)
 
-Geben Sie gerne Feedback in [GitHub Issues](https://github.com/PDFMathTranslate/PDFMathTranslate-next/issues) oder [Telegram Group](https://t.me/+Z9_SgnxmsmA5NzBl).
+Geben Sie gerne Feedback in den [GitHub Issues](https://github.com/PDFMathTranslate/PDFMathTranslate-next/issues) oder der [Telegram Group](https://t.me/+Z9_SgnxmsmA5NzBl).
 
-Details zur Mitwirkung finden Sie im [Contribution Guide](https://pdf2zh-next.com/community/Contribution-Guide.html).
+Details zur Mitwirkung finden Sie im [Beitragsleitfaden](https://pdf2zh-next.com/community/Contribution-Guide.html).
 
-<h2 id="updates">Updates</h2>
+<h2 id="updates">Aktualisierungen</h2>
 
 - [4. Juni 2025] Das Projekt wurde umbenannt und zu [PDFMathTranslate/PDFMathTranslate-next](https://github.com/PDFMathTranslate/PDFMathTranslate-next) verschoben (von [@awwaawwa](https://github.com/awwaawwa))
-- [3. März 2025] Experimentelle Unterstützung für das neue Backend [BabelDOC](https://github.com/funstory-ai/BabelDOC) WebUI als experimentelle Option hinzugefügt (von [@awwaawwa](https://github.com/awwaawwa))
+- [3. März 2025] Experimentelle Unterstützung für das neue Backend [BabelDOC](https://github.com/funstory-ai/BabelDOC) WebUI wurde als experimentelle Option hinzugefügt (von [@awwaawwa](https://github.com/awwaawwa))
 - [22. Februar 2025] Verbesserte Release-CI und gut verpackte Windows-amd64-Exe (von [@awwaawwa](https://github.com/awwaawwa))
 - [24. Dezember 2024] Der Übersetzer unterstützt nun lokale Modelle auf [Xinference](https://github.com/xorbitsai/inference) _(von [@imClumsyPanda](https://github.com/imClumsyPanda))_
 - [19. Dezember 2024] Nicht-PDF/A-Dokumente werden nun mit `-cp` unterstützt _(von [@reycn](https://github.com/reycn))_
-- [13. Dezember 2024] Zusätzliche Unterstützung für Backend von _(von [@YadominJinta](https://github.com/YadominJinta))_
+- [13. Dezember 2024] Zusätzliche Unterstützung für das Backend von _(von [@YadominJinta](https://github.com/YadominJinta))_
 - [10. Dezember 2024] Der Übersetzer unterstützt nun OpenAI-Modelle auf Azure _(von [@yidasanqian](https://github.com/yidasanqian))_
 
 <h2 id="vorschau">Vorschau</h2>
@@ -63,11 +63,11 @@ Details zur Mitwirkung finden Sie im [Contribution Guide](https://pdf2zh-next.co
 
 > [!NOTE]
 >
-> pdf2zh 2.0 bietet derzeit keine Online-Demo
+> pdf2zh 2.0 bietet derzeit keine Online-Demo an
 
 Sie können unsere Anwendung mit einer der folgenden Demos ausprobieren:
 
-- [v1.x Öffentlicher kostenloser Dienst](https://pdf2zh.com/) online ohne Installation _(empfohlen)_.
+- [v1.x Public free service](https://pdf2zh.com/) online ohne Installation _(empfohlen)_.
 - [Immersive Translate - BabelDOC](https://app.immersivetranslate.com/babel-doc/) 1000 kostenlose Seiten pro Monat. _(empfohlen)_
 <!-- - [Demo hosted on HuggingFace](https://huggingface.co/spaces/reycn/PDFMathTranslate-Docker)
 - [Demo hosted on ModelScope](https://www.modelscope.cn/studios/AI-ModelScope/PDFMathTranslate) without installation. -->
@@ -94,7 +94,7 @@ Für verschiedene Anwendungsfälle bieten wir unterschiedliche Methoden zur Nutz
 
 <h2 id="usage">Erweiterte Optionen</h2>
 
-Detaillierte Erklärungen finden Sie in unserem Dokument über [Erweiterte Verwendung](https://pdf2zh-next.com/advanced/advanced.html) für eine vollständige Liste jeder Option.
+Detaillierte Erklärungen finden Sie in unserem Dokument über [Erweiterte Verwendung](https://pdf2zh-next.com/advanced/advanced.html) für eine vollständige Liste aller Optionen.
 
 <h2 id="downstream">Sekundäre Entwicklung (APIs)</h2>
 

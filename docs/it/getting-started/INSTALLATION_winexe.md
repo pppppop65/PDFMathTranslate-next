@@ -13,7 +13,7 @@
 > - Il file `pdf2zh-<version>-with-assets-win64.zip` include file di risorse (come font e modelli) rispetto a `pdf2zh-<version>-win64.zip`.
 > - La versione senza risorse scaricherà dinamicamente le risorse durante l'esecuzione, ma il download potrebbe fallire a causa di problemi di rete.
 
-***Passo 2*** | Decomprimi `pdf2zh-<version>-with-assets-win64.zip` e accedi alla cartella `pdf2zh`. Ci vuole un po' di tempo per decomprimere, sii paziente.
+***Passo 2*** | Decomprimi `pdf2zh-<version>-with-assets-win64.zip` e accedi alla cartella `pdf2zh`. La decompressione richiede del tempo, sii paziente.
 
 ***Passo 3*** | Accedi alla cartella `pdf2zh`, quindi fai doppio clic su `pdf2zh.exe`.
 
@@ -28,14 +28,14 @@
 >
 > Se riscontri problemi durante l'utilizzo di WebUI, consulta [questa pagina web](./USAGE_webui.md).
 
-***Passo 5*** | Goditelo!
+***Passo 5*** | Divertiti!
 
 > [!TIP]
-> **Puoi utilizzare il file .exe tramite riga di comando**
+> **Puoi utilizzare il file .exe tramite la riga di comando**
 >
-> Utilizza il file .exe tramite riga di comando come segue:
+> Utilizza il file .exe tramite la riga di comando come segue:
 >
-> - Avvia il terminale e naviga fino alla cartella contenente il file .exe:
+> - Avvia il terminale e naviga nella cartella contenente il file .exe:
 >
 > ```bash
 > cd /path/pdf2zh_next/build

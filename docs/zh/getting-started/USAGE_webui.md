@@ -1,4 +1,4 @@
-[**快速开始**](./快速开始.md) > **如何安装** > **WebUI** _(current)_
+[**快速开始**](./getting-started.md) > **如何安装** > **WebUI** _(current)_
 
 ---
 
@@ -6,9 +6,9 @@
 
 #### 如何打开 WebUI 页面：
 
-有几种方法可以打开 WebUI 界面。如果您使用的是 **Windows**，请参考[这篇文章](./INSTALLATION_winexe.md);
+有多种方法可以打开 WebUI 界面。如果您使用的是 **Windows** 系统，请参考[这篇文章](./INSTALLATION_winexe.md);
 
-1. 已安装 Python（版本需在 3.10 至 3.13 之间）
+1. 已安装 Python（3.10 <= 版本 <= 3.13）
 
 2. 安装我们的包：
 
@@ -31,10 +31,10 @@
 
 ### 环境变量
 
-你可以通过环境变量设置源语言和目标语言：
+您可以通过环境变量设置源语言和目标语言：
 
-- `PDF2ZH_LANG_FROM`: 设置源语言。默认为 "English"。
-- `PDF2ZH_LANG_TO`: 设置目标语言。默认为 "Simplified Chinese"。
+- `PDF2ZH_LANG_FROM`: 设置源语言。默认为"English"。
+- `PDF2ZH_LANG_TO`: 设置目标语言。默认为"Simplified Chinese"。
 
 ## 预览
 

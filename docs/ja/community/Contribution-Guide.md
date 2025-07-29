@@ -11,11 +11,11 @@
 ## 受け付けない貢献の種類
 
 1. ドキュメントの国際化/翻訳
-2. HTTP API などのコアインフラストラクチャに関する貢献
-3. 「No help needed」と明示的にマークされた Issue（[Byaidu/PDFMathTranslate](Byaidu/PDFMathTranslate)および[PDFMathTranslate/PDFMathTranslate-next](PDFMathTranslate/PDFMathTranslate-next)リポジトリの Issue を含む）。
+2. HTTP API など、コアインフラストラクチャに関連する貢献
+3. 「助けが必要ない」と明示的にマークされた問題（[Byaidu/PDFMathTranslate](Byaidu/PDFMathTranslate)および[PDFMathTranslate/PDFMathTranslate-next](PDFMathTranslate/PDFMathTranslate-next)リポジトリ内の問題を含む）。
 4. メンテナーが不適切と判断したその他の貢献。
-5. 貢献ドキュメント、ただし英語以外の言語でのドキュメント変更。
-6. PDF ファイルの修正を必要とする PR。
+5. ドキュメントへの貢献ですが、英語以外の言語でドキュメントを変更する場合。
+6. PDF ファイルの変更を必要とする PR。
 
 上記の種類に関連する PR は提出しないでください。
 
@@ -26,20 +26,20 @@
 ## 貢献プロセス
 
 1. このリポジトリをフォークし、ローカルにクローンします。
-2. 新しいブランチを作成：`git checkout -b feature/<feature-name>`.
+2. 新しいブランチを作成：`git checkout -b feature/<feature-name>`。
 3. 開発を行い、コードが要件を満たしていることを確認します。
 4. コードをコミット：
    ```bash
    git add .
    git commit -m "<semantic commit message>"
    ```
-5. 自分のリポジトリにプッシュ：`git push origin feature/<feature-name>`.
-6. GitHub で PR を作成し、詳細な説明を提供して[@awwaawwa](https://github.com/awwaawwa)にレビューを依頼します。
+5. 自分のリポジトリにプッシュ：`git push origin feature/<feature-name>`。
+6. GitHub で PR を作成し、詳細な説明を記載して[@awwaawwa](https://github.com/awwaawwa)にレビューを依頼します。
 7. すべての自動チェックが通過することを確認します。
 
 > [!TIP]
 >
-> 開発が完全に完了するまで待つ必要はありません。早期に PR を作成することで、実装をレビューし、提案を行うことができます。
+> 開発が完全に完了するまで待つ必要はありません。早期に PR を作成することで、実装をレビューし、提案を提供することができます。
 >
 > ソースコードや関連事項について質問がある場合は、メンテナ aw@funstory.ai までお問い合わせください。
 >
@@ -50,8 +50,8 @@
 <h4 id="sop">1. ワークフロー</h4>
 
 - `main`ブランチからフォークし、フォークしたブランチで開発してください。
-   - プルリクエスト（PR）を提出する際は、変更内容の詳細な説明を記載してください。
-   - PR が自動チェックに合格しない場合（`checks failed`と赤い×マークで表示）、対応する`details`を確認し、修正を行って新しい PR がすべてのチェックに合格するようにしてください。
+   - Pull Request（PR）を提出する際は、変更内容の詳細な説明を記載してください。
+   - PR が自動チェックに合格しない場合（`checks failed`と赤い×マークで表示）、対応する`details`を確認し、提出内容を修正して新しい PR がすべてのチェックに合格するようにしてください。
 
 
 <h4 id="dev&test">2. 開発とテスト</h4>
@@ -61,7 +61,7 @@
 
 <h4 id="format">3. コードフォーマット</h4>
 
-- `pre-commit`ツールを設定し、コードフォーマット用に`black`と`flake8`を有効にします。
+- `pre-commit`ツールを設定し、コードフォーマット用に`black`と`flake8`を有効化します。
 
 
 <h4 id="requpdate">4. 依存関係の更新</h4>
@@ -81,14 +81,14 @@
 
 <h4 id="codestyle">7. コーディングスタイル</h4>
 
-- 提出されたコードが基本的なコーディングスタイル標準に準拠していることを確認してください。
-   - 変数名にはスネークケース（snake_case）またはキャメルケース（camelCase）を使用してください。
+- 提出されたコードが基本的なコーディングスタイル基準に準拠していることを確認してください。
+   - 変数名には snake_case または camelCase を使用してください。
 
 
 <h4 id="doctypo">8. ドキュメントフォーマット</h4>
 
 - `README.md`のフォーマットについては、[中国語コピーライティングガイドライン](https://github.com/sparanoid/chinese-copywriting-guidelines)に従ってください。
-   - 英語と中国語のドキュメントは常に最新の状態に保つようにし、その他の言語のドキュメント更新は任意とします。
+   - 英語と中国語のドキュメントは常に最新の状態に保つようにしてください。その他の言語のドキュメント更新は任意です。
 
 ## 翻訳エンジンの追加
 
@@ -108,11 +108,11 @@
 - **const.py**: いくつかの定数。
 - **main.py**: コマンドラインツールを提供。
 - **high_level.py**: BabelDOC ベースの高レベルインターフェース。
-- **http_api.py**: HTTP API を提供（未開始）。
+- **http_api.py**: HTTP API を提供（未起動）。
 
 ## お問い合わせ
 
-ご質問がある場合は、Issue を通じてフィードバックを提出するか、Telegram グループに参加してください。ご協力ありがとうございます！
+ご質問がある場合は、Issue を通じてフィードバックを提出するか、Telegram グループに参加してください。貢献いただきありがとうございます！
 
 > [!TIP]
 >

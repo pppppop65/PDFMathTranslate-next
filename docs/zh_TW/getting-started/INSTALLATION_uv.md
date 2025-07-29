@@ -31,13 +31,13 @@ uv 是一個極其快速的 Python 套件和專案管理器，使用 Rust 編寫
 
     === "macOS 和 Linux"
 
-        將以下內容添加到 ~/.zshrc：
+        將以下內容添加到你的 ~/.zshrc 中：
 
         ```console
         export PATH="$PATH:/Users/Username/.local/bin"
         ```
 
-        然後重啟終端
+        然後重新啟動終端
 
     === "Windows"
 
@@ -47,7 +47,7 @@ uv 是一個極其快速的 Python 套件和專案管理器，使用 Rust 編寫
         $env:Path = "C:\Users\Username\.local\bin;$env:Path"
         ```
 
-        然後重啟終端
+        然後重新啟動終端
 
 > [!NOTE]
 > 如果您在使用 WebUI 時遇到任何問題，請參考 [如何使用 --> WebUI](./USAGE_webui.md)。

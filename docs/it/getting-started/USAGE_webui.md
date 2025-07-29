@@ -18,7 +18,7 @@ Esistono diversi metodi per aprire l'interfaccia WebUI. Se stai utilizzando **Wi
     pdf2zh_next --gui
     ```
 
-4. Se il tuo browser non è stato avviato automaticamente, vai a
+4. Se il tuo browser non si è avviato automaticamente, vai a
 
     ```bash
     http://localhost:7860/
@@ -33,8 +33,8 @@ Esistono diversi metodi per aprire l'interfaccia WebUI. Se stai utilizzando **Wi
 
 È possibile impostare le lingue di origine e di destinazione utilizzando le variabili d'ambiente:
 
-- `PDF2ZH_LANG_FROM`: Imposta la lingua di origine. Predefinito è "English".
-- `PDF2ZH_LANG_TO`: Imposta la lingua di destinazione. Predefinito è "Simplified Chinese".
+- `PDF2ZH_LANG_FROM`: Imposta la lingua di origine. Predefinito a "English".
+- `PDF2ZH_LANG_TO`: Imposta la lingua di destinazione. Predefinito a "Simplified Chinese".
 
 ## Anteprima
 

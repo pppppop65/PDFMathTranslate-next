@@ -1,4 +1,4 @@
-[**Erste Schritte**](./erste-schritte.md) > **Installation** > **Docker** _(aktuell)_
+[**Erste Schritte**](./getting-started.md) > **Installation** > **Docker** _(current)_
 
 ---
 
@@ -10,7 +10,7 @@
 
 #### Installation
 
-<h4>1. Pullen und ausführen:</h4>
+<h4>1. Herunterladen und ausführen:</h4>
 
 ```bash
 docker pull awwaawwa/pdfmathtranslate-next

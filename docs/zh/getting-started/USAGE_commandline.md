@@ -6,7 +6,7 @@
 
 #### 基本用法
 
-安装完成后，请输入此命令来翻译你的 PDF。
+安装完成后，请输入以下命令来翻译你的 PDF。
 
 ```bash
 pdf2zh_next document.pdf
@@ -14,11 +14,11 @@ pdf2zh_next document.pdf
 
 > [!NOTE]
 > 
-> 如果您的路径名包含空格，请用引号将其括起来。
+> 如果路径名包含空格，请用引号将其括起来。
 > 
 > ```bash
 > pdf2zh_next "path with spaces/document.pdf"
-> ```
+>
 
 执行翻译后，文件将在**当前工作目录**中生成。
 

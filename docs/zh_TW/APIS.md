@@ -12,9 +12,9 @@
 
 <h2 id="api-python">Python</h2>
 
-由於 `pdf2zh` 是一個已安裝的 Python 模組，我們提供了兩個方法供其他程式在任何 Python 腳本中調用。
+由於 `pdf2zh` 是一個安裝在 Python 中的模塊，我們提供了兩種方法供其他程序在任何 Python 腳本中調用。
 
-舉例來說，如果你想使用 Google 翻譯將文件從英文翻譯成中文，可以使用以下代碼：
+例如，如果你想使用 Google Translate 將文檔從英文翻譯成中文，可以使用以下代碼：
 
 ```python
 from pdf2zh_next import translate, translate_stream
@@ -26,7 +26,7 @@ params = {
     'thread': 4,
 }
 ```
-使用文件進行翻譯：
+使用檔案進行翻譯：
 ```python
 (file_mono, file_dual) = translate(files=['example.pdf'], **params)[0]
 ```

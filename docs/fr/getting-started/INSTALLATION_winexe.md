@@ -10,10 +10,10 @@
 > **Quelle est la différence entre `pdf2zh-<version>-with-assets-win64.zip` et `pdf2zh-<version>-win64.zip` ?**
 >
 > - Si vous téléchargez et utilisez PDFMathTranslate pour la première fois, il est recommandé de télécharger `pdf2zh-<version>-with-assets-win64.zip`.
-> - Le fichier `pdf2zh-<version>-with-assets-win64.zip` inclut des fichiers de ressources (tels que des polices et des modèles) contrairement à `pdf2zh-<version>-win64.zip`.
+> - Le fichier `pdf2zh-<version>-with-assets-win64.zip` inclut des fichiers de ressources (tels que des polices et des modèles) par rapport à `pdf2zh-<version>-win64.zip`.
 > - La version sans ressources téléchargera également les ressources dynamiquement lors de l'exécution, mais le téléchargement peut échouer en raison de problèmes de réseau.
 
-***Étape 2*** | Décompressez `pdf2zh-<version>-with-assets-win64.zip` et accédez au dossier `pdf2zh`. La décompression prend un certain temps, merci de patienter.
+***Étape 2*** | Décompressez `pdf2zh-<version>-with-assets-win64.zip` et accédez au dossier `pdf2zh`. La décompression peut prendre un certain temps, merci de patienter.
 
 ***Étape 3*** | Accédez au dossier `pdf2zh`, puis double-cliquez sur `pdf2zh.exe`.
 
@@ -35,7 +35,7 @@
 >
 > Utilisez le fichier .exe via la ligne de commande comme suit :
 >
-> - Lancez votre terminal et naviguez jusqu'au dossier contenant le fichier .exe :
+> - Lancez votre terminal et naviguez vers le dossier contenant le fichier .exe :
 >
 > ```bash
 > cd /path/pdf2zh_next/build
@@ -47,7 +47,7 @@
 > ./pdf2zh_next.exe "document.pdf"
 > ```
 >
-> Vous pouvez utiliser d'autres paramètres de ligne de commande normalement :
+> Vous pouvez utiliser d'autres paramètres de ligne de commande comme d'habitude :
 >
 > ```bash
 > ./pdf2zh_next.exe "document.pdf" --lang-in en --lang-out ja

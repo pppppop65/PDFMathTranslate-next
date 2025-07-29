@@ -6,7 +6,7 @@
 
 Источник <https://developers.google.com/admin-sdk/directory/v1/languages?hl=zh-cn>, организовано GPT-4o.
 
-| Метка на китайском | Метка | `Language Code` |
+| Название на китайском | Название | `Код языка` |
 | --- | --- | --- |
 | Амхарский | Amharic | `am` |
 | Арабский | Arabic | `ar` |
@@ -69,7 +69,7 @@
 #### DeepL
 Источник <https://developers.deepl.com/docs/resources/supported-languages>, организовано GPT-4o.
 
-| Метка на русском | Метка | `Language Code` | Поддерживается |
+| Метка на китайском | Метка | `Language Code` | Поддерживается |
 | --- | --- | --- | --- |
 | Арабский | Arabic | `AR` | `source`, `target` |
 | Болгарский | Bulgarian | `BG` | `source`, `target` |

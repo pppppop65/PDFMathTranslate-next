@@ -2,19 +2,19 @@
 
 > [!CAUTION]
 >
-> Os mantenedores atuais do projeto estão pesquisando a internacionalização automatizada da documentação. Portanto, qualquer PR relacionado à internacionalização/tradução da documentação NÃO será aceito!
+> Os mantenedores atuais do projeto estão pesquisando a internacionalização automatizada da documentação. Portanto, quaisquer PRs relacionados à internacionalização/tradução da documentação NÃO serão aceitos!
 >
 > Por favor, NÃO envie PRs relacionados à internacionalização/tradução da documentação!
 
 Obrigado pelo seu interesse neste projeto! Antes de começar a contribuir, reserve um tempo para ler as seguintes diretrizes para garantir que sua contribuição possa ser aceita sem problemas.
 
-## Tipos de Contribuições Não Aceitas
+## Tipos de contribuições não aceitas
 
-1. Internacionalização/tradução da documentação
+1. Documentação de internacionalização/tradução
 2. Contribuições relacionadas à infraestrutura principal, como API HTTP, etc.
-3. Problemas explicitamente marcados como "No help needed" (incluindo problemas no repositório [Byaidu/PDFMathTranslate](Byaidu/PDFMathTranslate) e no [PDFMathTranslate/PDFMathTranslate-next](PDFMathTranslate/PDFMathTranslate-next)).
+3. Problemas explicitamente marcados como "No help needed" (incluindo problemas nos repositórios [Byaidu/PDFMathTranslate](Byaidu/PDFMathTranslate) e [PDFMathTranslate/PDFMathTranslate-next](PDFMathTranslate/PDFMathTranslate-next)).
 4. Outras contribuições consideradas inadequadas pelos mantenedores.
-5. Contribuição com documentação, mas alterando a documentação em idiomas diferentes do inglês.
+5. Documentação de contribuição, mas alterando a documentação em idiomas diferentes do inglês.
 6. PRs que exigem modificação de arquivos PDF.
 
 Por favor, NÃO envie PRs relacionados aos tipos acima.
@@ -49,9 +49,9 @@ Por favor, NÃO envie PRs relacionados aos tipos acima.
 
 <h4 id="sop">1. Fluxo de trabalho</h4>
 
-- Por favor, faça um fork a partir do branch `main` e desenvolva no seu branch bifurcado.
+- Por favor, faça um fork a partir do branch `main` e desenvolva no seu branch forkado.
    - Ao enviar um Pull Request (PR), forneça uma descrição detalhada das suas alterações.
-   - Se o seu PR não passar nas verificações automatizadas (indicado por `checks failed` e uma cruz vermelha), revise os `details` correspondentes e modifique sua submissão para garantir que o novo PR passe em todas as verificações.
+   - Se o seu PR não passar nas verificações automatizadas (indicado por `checks failed` e um símbolo de cruz vermelha), por favor revise os `details` correspondentes e modifique sua submissão para garantir que o novo PR passe em todas as verificações.
 
 
 <h4 id="dev&test">2. Desenvolvimento e Testes</h4>
@@ -88,7 +88,7 @@ Por favor, NÃO envie PRs relacionados aos tipos acima.
 <h4 id="doctypo">8. Formatação da Documentação</h4>
 
 - Para a formatação de `README.md`, siga as [Diretrizes de Redação em Chinês](https://github.com/sparanoid/chinese-copywriting-guidelines).
-   - Certifique-se de que a documentação em inglês e chinês esteja sempre atualizada; as atualizações da documentação em outros idiomas são opcionais.
+   - Certifique-se de que a documentação em inglês e chinês esteja sempre atualizada; as atualizações de documentação em outros idiomas são opcionais.
 
 ## Adicionando um mecanismo de tradução
 
@@ -98,12 +98,12 @@ Por favor, NÃO envie PRs relacionados aos tipos acima.
 
 > [!NOTE]
 >
-> Este projeto não pretende suportar nenhum mecanismo de tradução com um RPS (solicitações por segundo) inferior a 4. Por favor, não envie suporte para esses mecanismos.
+> Este projeto não pretende suportar nenhum mecanismo de tradução com um RPS (solicitações por segundo) inferior a 4. Por favor, não envie suporte para tais mecanismos.
 
-## Estrutura do Projeto
+## Estrutura do projeto
 
-- **pasta config**: Sistema de configuração.
-- **pasta translator**: Implementações relacionadas ao tradutor.
+- **config folder**: Sistema de configuração.
+- **translator folder**: Implementações relacionadas ao tradutor.
 - **gui.py**: Fornece a interface gráfica.
 - **const.py**: Algumas constantes.
 - **main.py**: Fornece a ferramenta de linha de comando.

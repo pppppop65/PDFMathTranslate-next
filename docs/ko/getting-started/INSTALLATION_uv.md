@@ -1,4 +1,4 @@
-[**시작하기**](./getting-started.md) > **설치** > **uv** _(current)_
+[**시작하기**](./getting-started.md) > **설치** > **uv** _(현재)_
 
 ---
 
@@ -27,7 +27,7 @@ uv 는 Rust 로 작성된 매우 빠른 Python 패키지 및 프로젝트 관리
 
 !!! Warning
 
-    실행 시 `command not found: pdf2zh_next` 오류가 발생하면 다음과 같이 환경 변수를 설정한 후 다시 시도해 주세요:
+    `command not found: pdf2zh_next` 오류가 발생하면 다음과 같이 환경 변수를 설정한 후 다시 시도해 주세요:
 
     === "macOS 및 Linux"
 

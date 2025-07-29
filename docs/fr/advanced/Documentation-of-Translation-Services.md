@@ -2,7 +2,7 @@
 
 ---
 
-### Visualiser les services de traduction disponibles via la Ligne de commande
+### Visualisation des services de traduction disponibles via la ligne de commande
 
 Vous pouvez confirmer les services de traduction disponibles et leur utilisation en affichant le message d'aide dans la ligne de commande.
 
@@ -10,7 +10,7 @@ Vous pouvez confirmer les services de traduction disponibles et leur utilisation
 pdf2zh_next -h
 ```
 
-À la fin du message d'aide, vous pouvez visualiser des informations détaillées sur les différents services de traduction.
+À la fin du message d'aide, vous pouvez consulter des informations détaillées sur les différents services de traduction.
 
 ---
 
@@ -40,11 +40,11 @@ Nous avons fourni un tableau détaillé sur les [variables d'environnement](http
 | **DeepLX**           | `deeplx`       | `DEEPLX_ENDPOINT`                                                     | `https://api.deepl.com/translate`                        | Voir [DeepLX](https://github.com/OwO-Network/DeepLX)                                                                                                                                                                        |
 | **Ollama**           | `ollama`       | `OLLAMA_HOST`, `OLLAMA_MODEL`                                         | `http://127.0.0.1:11434`, `gemma2`                       | Voir [Ollama](https://github.com/ollama/ollama)                                                                                                                                                                             |
 | **Xinference**       | `xinference`   | `XINFERENCE_HOST`, `XINFERENCE_MODEL`                                 | `http://127.0.0.1:9997`, `gemma-2-it`                    | Voir [Xinference](https://github.com/xorbitsai/inference)                                                                                                                                                                   |
-| **OpenAI**           | `openai`       | `OPENAI_BASE_URL`, `OPENAI_API_KEY`, `OPENAI_MODEL`                   | `https://api.openai.com/v1`, `[Votre clé]`, `gpt-4o-mini` | Voir [OpenAI](https://platform.openai.com/docs/overview)                                                                                                                                                                    |
-| **AzureOpenAI**      | `azure-openai` | `AZURE_OPENAI_BASE_URL`, `AZURE_OPENAI_API_KEY`, `AZURE_OPENAI_MODEL` | `[Your Endpoint]`, `[Your Key]`, `gpt-4o-mini`           | Voir [Azure OpenAI](https://learn.microsoft.com/zh-cn/azure/ai-services/openai/chatgpt-quickstart?tabs=command-line%2Cjavascript-keyless%2Ctypescript-keyless%2Cpython&pivots=programming-language-python)                  |
+| **OpenAI**           | `openai`       | `OPENAI_BASE_URL`, `OPENAI_API_KEY`, `OPENAI_MODEL`                   | `https://api.openai.com/v1`, `[Your Key]`, `gpt-4o-mini` | Voir [OpenAI](https://platform.openai.com/docs/overview)                                                                                                                                                                    |
+| **AzureOpenAI**      | `azure-openai` | `AZURE_OPENAI_BASE_URL`, `AZURE_OPENAI_API_KEY`, `AZURE_OPENAI_MODEL` | `[Votre Endpoint]`, `[Votre Clé]`, `gpt-4o-mini`           | Voir [Azure OpenAI](https://learn.microsoft.com/zh-cn/azure/ai-services/openai/chatgpt-quickstart?tabs=command-line%2Cjavascript-keyless%2Ctypescript-keyless%2Cpython&pivots=programming-language-python)                  |
 | **Zhipu**            | `zhipu`        | `ZHIPU_API_KEY`, `ZHIPU_MODEL`                                        | `[Your Key]`, `glm-4-flash`                              | Voir [Zhipu](https://open.bigmodel.cn/dev/api/thirdparty-frame/openai-sdk)                                                                                                                                                  |
 | **ModelScope**       | `ModelScope`   | `MODELSCOPE_API_KEY`, `MODELSCOPE_MODEL`                              | `[Your Key]`, `Qwen/Qwen2.5-Coder-32B-Instruct`          | Voir [ModelScope](https://www.modelscope.cn/docs/model-service/API-Inference/intro)                                                                                                                                         |
-| **Silicon**          | `silicon`      | `SILICON_API_KEY`, `SILICON_MODEL`                                    | `[Your Key]`, `Qwen/Qwen2.5-7B-Instruct`                 | Voir [SiliconCloud](https://docs.siliconflow.cn/quickstart)                                                                                                                                                                 |
+| **Silicon**          | `silicon`      | `SILICON_API_KEY`, `SILICON_MODEL`                                    | `[Votre clé]`, `Qwen/Qwen2.5-7B-Instruct`                 | Voir [SiliconCloud](https://docs.siliconflow.cn/quickstart)                                                                                                                                                                 |
 | **Gemini**           | `gemini`       | `GEMINI_API_KEY`, `GEMINI_MODEL`                                      | `[Your Key]`, `gemini-1.5-flash`                         | Voir [Gemini](https://ai.google.dev/gemini-api/docs/openai)                                                                                                                                                                 |
 | **Azure**            | `azure`        | `AZURE_ENDPOINT`, `AZURE_API_KEY`                                     | `https://api.translator.azure.cn`, `[Your Key]`          | Voir [Azure](https://docs.azure.cn/en-us/ai-services/translator/text-translation-overview)                                                                                                                                  |
 | **Tencent**          | `tencent`      | `TENCENTCLOUD_SECRET_ID`, `TENCENTCLOUD_SECRET_KEY`                   | `[Your ID]`, `[Your Key]`                                | Voir [Tencent](https://www.tencentcloud.com/products/tmt?from_qcintl=122110104)                                                                                                                                             |
@@ -65,7 +65,7 @@ Utilisez `-s service` ou `-s service:model` pour spécifier le service :
 pdf2zh_next example.pdf -s openai:gpt-4o-mini
 ```
 
-Ou spécifiez le modèle avec des variables d'environnement :
+Ou spécifier le modèle avec des variables d'environnement :
 
 ```bash
 set OPENAI_MODEL=gpt-4o-mini

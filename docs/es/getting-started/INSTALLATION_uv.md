@@ -2,7 +2,7 @@
 
 ---
 
-### Instalar PDFMathTranslate via uv
+### Instalar PDFMathTranslate mediante uv
 
 #### ¿Qué es uv? ¿Cómo instalarlo?
 
@@ -27,9 +27,9 @@ Después de la instalación, puedes comenzar la traducción mediante la **línea
 
 !!! Warning
 
-    Si ves el error `command not found: pdf2zh_next` al ejecutar, configura las variables de entorno de la siguiente manera e inténtalo de nuevo:
+    Si ves el error `command not found: pdf2zh_next` al ejecutar, por favor configura las variables de entorno como se indica a continuación e inténtalo de nuevo:
 
-    === "macOS and Linux"
+    === "macOS y Linux"
 
         Añade lo siguiente a tu ~/.zshrc:
 
@@ -50,7 +50,7 @@ Después de la instalación, puedes comenzar la traducción mediante la **línea
         Luego reinicia tu terminal
 
 > [!NOTE]
-> Si encuentras algún problema al usar WebUI, consulta [Uso --> WebUI](./USAGE_webui.md).
+> Si encuentras algún problema al usar la WebUI, consulta [Uso --> WebUI](./USAGE_webui.md).
 
 > [!NOTE]
 > Si encuentras algún problema al usar la línea de comandos, consulta [Uso --> Línea de comandos](./USAGE_commandline.md).

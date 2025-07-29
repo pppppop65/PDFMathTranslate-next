@@ -4,7 +4,7 @@
 
 ### .exe ファイル経由で PDFMathTranslate をインストールする
 
-***ステップ 1*** | [リリースページ](https://github.com/PDFMathTranslate/PDFMathTranslate-next/releases)から`pdf2zh-<version>-with-assets-win64.zip`をダウンロードしてください。
+***ステップ 1*** | [リリースページ](https://github.com/PDFMathTranslate/PDFMathTranslate-next/releases)から`pdf2zh-<version>-with-assets-win64.zip`をダウンロードします。
 
 > [!TIP]
 > **`pdf2zh-<version>-with-assets-win64.zip`と`pdf2zh-<version>-win64.zip`の違いは何ですか？**
@@ -22,7 +22,7 @@
 >
 > pdf2zh.exe の実行に問題がある場合は、`https://aka.ms/vs/17/release/vc_redist.x64.exe`をインストールしてから再度お試しください。
 
-***ステップ 4*** | exe ファイルをダブルクリックするとターミナルが表示されます。約 30 秒から 1 分後に、デフォルトのブラウザでウェブページが開きます。開かない場合は、手動で`http://localhost:7860/`にアクセスしてみてください。
+***ステップ 4*** | exe ファイルをダブルクリックするとターミナルが表示されます。約 30 秒から 1 分後、デフォルトのブラウザでウェブページが開きます。開かない場合は、手動で`http://localhost:7860/`にアクセスしてみてください。
 
 > [!NOTE]
 >
@@ -33,7 +33,7 @@
 > [!TIP]
 > **.exe ファイルはコマンドラインから使用可能**
 >
-> 以下の手順で.exe ファイルをコマンドラインから使用できます：
+> 以下の手順でコマンドラインから.exe ファイルを使用できます：
 >
 > - ターミナルを起動し、.exe ファイルが含まれるフォルダに移動：
 >

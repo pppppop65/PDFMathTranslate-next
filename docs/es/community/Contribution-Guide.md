@@ -6,7 +6,7 @@
 >
 > ¡Por favor, NO envíes PRs relacionados con la internacionalización/traducción de la documentación!
 
-¡Gracias por tu interés en este proyecto! Antes de empezar a contribuir, por favor tómate un tiempo para leer las siguientes pautas para asegurar que tu contribución pueda ser aceptada sin problemas.
+¡Gracias por tu interés en este proyecto! Antes de comenzar a contribuir, por favor tómate un tiempo para leer las siguientes pautas para asegurarte de que tu contribución pueda ser aceptada sin problemas.
 
 ## Tipos de contribuciones no aceptadas
 
@@ -21,13 +21,13 @@ Por favor NO envíes PRs relacionados con los tipos mencionados anteriormente.
 
 > [!NOTE]
 >
-> Si deseas contribuir a la documentación, por favor **solo modifiques la versión en inglés de la documentación**. Las versiones en otros idiomas son traducidas por los propios colaboradores.
+> Si deseas contribuir con la documentación, por favor **solo modifiques la versión en inglés de la documentación**. Las versiones en otros idiomas son traducidas por los propios colaboradores.
 
 ## Proceso de contribución
 
 1. Haz un fork de este repositorio y clónalo localmente.
 2. Crea una nueva rama: `git checkout -b feature/<feature-name>`.
-3. Desarrolla y asegúrate de que tu código cumple con los requisitos.
+3. Desarrolla y asegúrate de que tu código cumpla con los requisitos.
 4. Haz commit de tu código:
    ```bash
    git add .
@@ -35,7 +35,7 @@ Por favor NO envíes PRs relacionados con los tipos mencionados anteriormente.
    ```
 5. Haz push a tu repositorio: `git push origin feature/<feature-name>`.
 6. Crea un PR en GitHub, proporciona una descripción detallada y solicita una revisión a [@awwaawwa](https://github.com/awwaawwa).
-7. Asegúrate de que todas las verificaciones automáticas pasan.
+7. Asegúrate de que todas las verificaciones automatizadas pasen.
 
 > [!TIP]
 >
@@ -43,7 +43,7 @@ Por favor NO envíes PRs relacionados con los tipos mencionados anteriormente.
 >
 > Si tienes alguna pregunta sobre el código fuente o temas relacionados, por favor contacta al mantenedor en aw@funstory.ai.
 >
-> Los archivos de recursos para la versión 2.0 se comparten con [BabelDOC](https://github.com/funstory-ai/BabelDOC). El código para descargar los recursos relacionados está en BabelDOC. Si deseas añadir nuevos archivos de recursos, por favor contacta al mantenedor de BabelDOC en aw@funstory.ai.
+> Los archivos de recursos para la versión 2.0 se comparten con [BabelDOC](https://github.com/funstory-ai/BabelDOC). El código para descargar los recursos relacionados está en BabelDOC. Si deseas agregar nuevos archivos de recursos, por favor contacta al mantenedor de BabelDOC en aw@funstory.ai.
 
 ## Requisitos básicos
 
@@ -59,9 +59,9 @@ Por favor NO envíes PRs relacionados con los tipos mencionados anteriormente.
 - Usa el comando `pip install -e .` para desarrollo y pruebas.
 
 
-<h4 id="formato">3. Formateo de código</h4>
+<h4 id="format">3. Formato de código</h4>
 
-- Configurar la herramienta `pre-commit` y habilitar `black` y `flake8` para el formato del código.
+- Configura la herramienta `pre-commit` y habilita `black` y `flake8` para el formato del código.
 
 
 <h4 id="requpdate">4. Actualizaciones de dependencias</h4>
@@ -71,7 +71,7 @@ Por favor NO envíes PRs relacionados con los tipos mencionados anteriormente.
 
 <h4 id="docupdate">5. Actualizaciones de documentación</h4>
 
-- Si añades nuevas opciones de línea de comandos, actualiza la lista de opciones de línea de comandos en todas las versiones de idioma del archivo `README.md` correspondientemente.
+- Si agregas nuevas opciones de línea de comandos, actualiza la lista de opciones de línea de comandos en todas las versiones de idioma del archivo `README.md` correspondientemente.
 
 
 <h4 id="commitmsg">6. Mensajes de commit</h4>
@@ -90,15 +90,15 @@ Por favor NO envíes PRs relacionados con los tipos mencionados anteriormente.
 - Para el formato de `README.md`, sigue las [Directrices de redacción en chino](https://github.com/sparanoid/chinese-copywriting-guidelines).
    - Asegúrate de que tanto la documentación en inglés como en chino estén siempre actualizadas; las actualizaciones de documentación en otros idiomas son opcionales.
 
-## Añadir un motor de traducción
+## Agregar un motor de traducción
 
-1. Añade una nueva clase de configuración del traductor en el archivo `pdf2zh/config/translate_engine_model.py`.
-2. Añade una instancia de la nueva clase de configuración del traductor al alias de tipo `TRANSLATION_ENGINE_SETTING_TYPE` en el mismo archivo.
-3. Añade la nueva clase de implementación del traductor en la carpeta `pdf2zh/translator/translator_impl`.
+1. Agrega una nueva clase de configuración del traductor en el archivo `pdf2zh/config/translate_engine_model.py`.
+2. Agrega una instancia de la nueva clase de configuración del traductor al alias de tipo `TRANSLATION_ENGINE_SETTING_TYPE` en el mismo archivo.
+3. Agrega la nueva clase de implementación del traductor en la carpeta `pdf2zh/translator/translator_impl`.
 
 > [!NOTE]
 >
-> Este proyecto no tiene la intención de soportar ningún motor de traducción con un RPS (solicitudes por segundo) inferior a 4. Por favor, no envíes soporte para dichos motores.
+> Este proyecto no tiene la intención de admitir ningún motor de traducción con un RPS (solicitudes por segundo) inferior a 4. Por favor, no envíes soporte para dichos motores.
 
 ## Estructura del proyecto
 

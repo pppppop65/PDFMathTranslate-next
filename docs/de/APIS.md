@@ -3,7 +3,7 @@
 > Dieses Dokument ist veraltet, bitte beziehen Sie sich nicht darauf.
 
 <h2 id="toc">Inhaltsverzeichnis</h2>
-Das vorliegende Projekt unterstützt zwei Arten von APIs, alle Methoden benötigen den Redis;
+Das vorliegende Projekt unterstützt zwei Arten von APIs, alle Methoden benötigen Redis;
 
 - [Funktionsaufrufe in Python](#api-python)
 - [HTTP-Protokolle](#api-http)
@@ -30,7 +30,7 @@ params = {
 ```python
 (file_mono, file_dual) = translate(files=['example.pdf'], **params)[0]
 ```
-Übersetzen mit Stream:
+Mit Stream übersetzen:
 ```python
 with open('example.pdf', 'rb') as f:
     (stream_mono, stream_dual) = translate_stream(stream=f.read(), **params)
@@ -42,9 +42,9 @@ with open('example.pdf', 'rb') as f:
 
 <h2 id="api-http">HTTP</h2>
 
-Auf eine flexiblere Weise können Sie mit dem Programm über HTTP-Protokolle kommunizieren, wenn:
+Auf flexiblere Weise können Sie mit dem Programm über HTTP-Protokolle kommunizieren, wenn:
 
-1. Backend installieren und ausführen
+1. Installation und Ausführung des Backends
 
    ```bash
    pip install pdf2zh_next[backend]

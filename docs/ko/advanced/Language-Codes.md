@@ -4,7 +4,7 @@
 
 #### Google
 
-출처 <https://developers.google.com/admin-sdk/directory/v1/languages?hl=zh-cn>, GPT-4o 가 정리함.
+Source <https://developers.google.com/admin-sdk/directory/v1/languages?hl=zh-cn>, GPT-4o 에 의해 정리됨.
 
 | 중국어 레이블 | 레이블 | `Language Code` |
 | --- | --- | --- |
@@ -15,7 +15,7 @@
 | 영어 (영국) | English (UK) | `en-GB` |
 | 포르투갈어 (브라질) | Portuguese (Brazil) | `pt-BR` |
 | 불가리아어 | Bulgarian | `bg` |
-| 카탈로니아어 | Catalan | `ca` |
+| 카탈루냐어 | Catalan | `ca` |
 | 체로키어 | Cherokee | `chr` |
 | 크로아티아어 | Croatian | `hr` |
 | 체코어 | Czech | `cs` |
@@ -49,7 +49,7 @@
 | 루마니아어 | Romanian | `ro` |
 | 러시아어 | Russian | `ru` |
 | 세르비아어 | Serbian | `sr` |
-| 한국어 (대한민국) | Korean (Korea) | `ko-KR` |
+| 한국어 (대한민국) | Korean (Republic of Korea) | `ko-KR` |
 | 슬로바키아어 | Slovak | `sk` |
 | 슬로베니아어 | Slovenian | `sl` |
 | 스페인어 | Spanish | `es` |
@@ -67,7 +67,7 @@
 
 
 #### DeepL
-출처 <https://developers.deepl.com/docs/resources/supported-languages>, GPT-4o 가 정리함.
+Source <https://developers.deepl.com/docs/resources/supported-languages>, GPT-4o 에 의해 정리됨.
 
 | 중국어 레이블 | 레이블 | `Language Code` | 지원 여부 |
 | --- | --- | --- | --- |

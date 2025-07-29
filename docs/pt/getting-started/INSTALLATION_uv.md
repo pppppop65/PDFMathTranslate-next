@@ -1,4 +1,4 @@
-[**Começar**](./começar.md) > **Instalação** > **uv** _(current)_
+[**Começar**](./começar.md) > **Instalação** > **uv** _(atual)_
 
 ---
 
@@ -14,7 +14,7 @@ Para instalar o uv no seu computador, consulte [este artigo](https://docs.astral
 
 #### Instalação
 
-1. Python instalado (versão entre 3.10 e 3.13);
+1. Python instalado (3.10 <= versão <= 3.13);
 
 2. Use o seguinte comando para utilizar nosso pacote:
 

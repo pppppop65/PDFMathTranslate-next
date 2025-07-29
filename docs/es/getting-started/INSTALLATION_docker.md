@@ -10,7 +10,7 @@
 
 #### Instalación
 
-<h4>1. Extraer y ejecutar:</h4>
+<h4>1. Descargar y ejecutar:</h4>
 
 ```bash
 docker pull awwaawwa/pdfmathtranslate-next
@@ -26,7 +26,7 @@ docker run -d -p 7860:7860 awwaawwa/pdfmathtranslate-next
 > docker run -d -p 7860:7860 ghcr.io/PDFMathTranslate/PDFMathTranslate-next
 >
 
-<h4>2. Ingresa esta URL en tu navegador predeterminado para abrir la página WebUI:</h4>
+<h4>2. Ingresa esta URL en tu navegador predeterminado para abrir la página de WebUI:</h4>
 
 ```
 http://localhost:7860/

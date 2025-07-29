@@ -1,4 +1,4 @@
-[**Начало работы**](./getting-started.md) > **Установка** > **WebUI** _(current)_
+[**Начало работы**](./начало-работы.md) > **Установка** > **WebUI** _(текущая)_
 
 ---
 
@@ -36,12 +36,12 @@
 - `PDF2ZH_LANG_FROM`: Устанавливает исходный язык. По умолчанию "English".
 - `PDF2ZH_LANG_TO`: Устанавливает целевой язык. По умолчанию "Simplified Chinese".
 
-## Предпросмотр
+## Предварительный просмотр
 
 <img src="./../images/before.png" width="500"/>
 <img src="./../images/after.png" width="500"/>
 
-## Поддержка
+## Обслуживание
 
 GUI поддерживается [Rongxin](https://github.com/reycn)
 

@@ -27,7 +27,7 @@ Source <https://developers.google.com/admin-sdk/directory/v1/languages?hl=zh-cn>
 | 芬兰语 | Finnish | `fi` |
 | Français | French | `fr` |
 | 德语 | German | `de` |
-| 希腊语 | Greek | `el` |
+| Grec | Greek | `el` |
 | 古吉拉特语 | Gujarati | `gu` |
 | Hébreu | Hebrew | `iw` |
 | Hindi | Hindi | `hi` |
@@ -42,21 +42,21 @@ Source <https://developers.google.com/admin-sdk/directory/v1/languages?hl=zh-cn>
 | Lituanien | Lithuanian | `lt` |
 | Malais | Malay | `ms` |
 | 马拉雅拉姆语 | Malayalam | `ml` |
-| Marathi | Marathi | `mr` |
+| 马拉地语 | Marathi | `mr` |
 | Norvégien | Norwegian | `no` |
 | Polonais | Polish | `pl` |
 | Portugais (Portugal) | Portuguese (Portugal) | `pt-PT` |
 | Roumain | Romanian | `ro` |
 | Russe | Russian | `ru` |
 | Serbe | Serbian | `sr` |
-| 中文（中国） | Chinese (PRC) | `zh-CN` |
+| Français (France) | French (France) | `fr-FR` |
 | Slovaque | Slovak | `sk` |
 | Slovène | Slovenian | `sl` |
 | Espagnol | Spanish | `es` |
 | Swahili | Swahili | `sw` |
 | Suédois | Swedish | `sv` |
-| 泰米尔语 | Tamil | `ta` |
-| 泰卢固语 | Telugu | `te` |
+| Tamoul | Tamil | `ta` |
+| Télougou | Telugu | `te` |
 | Thaï | Thai | `th` |
 | 中文（台湾） | Chinese (Taiwan) | `zh-TW` |
 | Turc | Turkish | `tr` |
@@ -69,20 +69,20 @@ Source <https://developers.google.com/admin-sdk/directory/v1/languages?hl=zh-cn>
 #### DeepL
 Source <https://developers.deepl.com/docs/resources/supported-languages>, organisé par GPT-4o.
 
-| Label en chinois | Label | `Language Code`| Supports |
+| Libellé en chinois | Libellé | `Language Code` | Pris en charge |
 | --- | --- | --- | --- |
 | Arabe | Arabic | `AR` | `source`, `target` |
 | Bulgare | Bulgarian | `BG` | `source`, `target` |
 | Tchèque | Czech | `CS` | `source`, `target` |
 | Danois | Danish | `DA` | `source`, `target` |
-| 德语 | German | `DE` | `source`, `target` |
-| 希腊语 | Greek | `EL` | `source`, `target` |
-| 英语 | Anglais | `EN` | `source`, `target` |
+| Allemand | German | `DE` | `source`, `target` |
+| Grec | Greek | `EL` | `source`, `target` |
+| Anglais | English | `EN` | `source`, `target` |
 | Anglais (Royaume-Uni) | English (British) | `EN-GB` | `target` |
 | Anglais (États-Unis) | English (American) | `EN-US` | `target` |
 | Espagnol | Spanish | `ES` | `source`, `target` |
 | Estonien | Estonian | `ET` | `source`, `target` |
-| 芬兰语 | Finnish | `FI` | `source`, `target` |
+| Finnois | Finnish | `FI` | `source`, `target` |
 | Français | French | `FR` | `source`, `target` |
 | Hongrois | Hungarian | `HU` | `source`, `target` |
 | Indonésien | Indonesian | `ID` | `source`, `target` |
@@ -95,8 +95,8 @@ Source <https://developers.deepl.com/docs/resources/supported-languages>, organi
 | Néerlandais | Dutch | `NL` | `source`, `target` |
 | Polonais | Polish | `PL` | `source`, `target` |
 | Portugais | Portuguese | `PT` | `source`, `target` |
-| Portugais (Brésil) | Portuguese (Brazilian) | `PT-BR` | `target` |
-| Portugais (européen) | Portuguese (European) | `PT-PT` | `target` |
+| Portugais (Brésilien) | Portuguese (Brazilian) | `PT-BR` | `target` |
+| Portugais (Europe) | Portuguese (European) | `PT-PT` | `target` |
 | Roumain | Romanian | `RO` | `source`, `target` |
 | Russe | Russian | `RU` | `source`, `target` |
 | Slovaque | Slovak | `SK` | `source`, `target` |
@@ -105,8 +105,8 @@ Source <https://developers.deepl.com/docs/resources/supported-languages>, organi
 | Turc | Turkish | `TR` | `source`, `target` |
 | Ukrainien | Ukrainian | `UK` | `source`, `target` |
 | Français | French | `FR` | `source`, `target` |
-| 中文（简体） | Chinese (Simplified) | `ZH-HANS` | `target` |
-| 中文（繁体） | Chinese (Traditional) | `ZH-HANT` | `target` |
+| Français | French | `FR` | `target` |
+| Chinois traditionnel | Chinese (Traditional) | `ZH-HANT` | `target` |
 
 <div align="right"> 
 <h6><small>Une partie du contenu de cette page a été traduite par GPT et peut contenir des erreurs.</small></h6>

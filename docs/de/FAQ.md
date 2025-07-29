@@ -16,7 +16,7 @@ Ich bin beim Herunterladen des Modells auf den folgenden Unterbrechungsfehler ge
 - **Antwort**:
 Das Netzwerk erfährt Störungen, bitte verwenden Sie eine stabile Netzwerkverbindung oder versuchen Sie, die Netzwerkintervention zu umgehen.
 
-## Wie aktualisiert man auf die neueste Version?
+## Wie aktualisiere ich auf die neueste Version?
 - **Frage**:
 Ich möchte einige Funktionen der neuesten Version nutzen, wie aktualisiere ich auf die neueste Version?
 
@@ -29,7 +29,7 @@ Ich möchte einige Funktionen der neuesten Version nutzen, wie aktualisiere ich 
 Beim Ausführen des Programms erhalten Benutzer die folgende Ausgabe: `Die folgenden Dateien existieren nicht: example.pdf`, wenn das Dokument nicht gefunden wurde.
 
 - **Lösung**:
-  - Öffnen Sie die Kommandozeile in dem Verzeichnis, in dem sich die Datei befindet, oder
+  - Öffnen Sie die Kommandozeile im Verzeichnis, in dem sich die Datei befindet, oder
   - Geben Sie den vollständigen Pfad der Datei direkt nach pdf2zh ein, oder
   - Verwenden Sie den interaktiven Modus `pdf2zh -i`, um Dateien direkt per Drag & Drop einzufügen
 
@@ -50,7 +50,7 @@ Bitte sehen Sie unten.
 
 ## Fehler beim Starten der GUI mit 0.0.0.0
 - **Problem**:
-Die Verwendung von Proxy-Software im globalen Modus kann verhindern, dass Gradio ordnungsgemäß startet. Zum Beispiel in [Issue #77](https://github.com/PDFMathTranslate/PDFMathTranslate-next/issues/77).
+Die Verwendung von Proxy-Software im globalen Modus kann verhindern, dass Gradio ordnungsgemäß startet. Beispielsweise in [Issue #77](https://github.com/PDFMathTranslate/PDFMathTranslate-next/issues/77).
 
 - **Lösung**:
 Verwenden Sie den Regelmodus

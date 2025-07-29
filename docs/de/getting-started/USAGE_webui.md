@@ -1,4 +1,4 @@
-[**Erste Schritte**](./getting-started.md) > **Installation** > **WebUI** _(current)_
+[**Erste Schritte**](./getting-started.md) > **Installation** > **WebUI** _(aktuell)_
 
 ---
 
@@ -24,7 +24,7 @@ Es gibt mehrere Methoden, um die WebUI-Oberfläche zu öffnen. Wenn Sie **Window
     http://localhost:7860/
     ```
 
-    Legen Sie die PDF-Datei in das Fenster und klicken Sie auf `Translate`.
+    Ziehen Sie die PDF-Datei in das Fenster und klicken Sie auf `Translate`.
 
 <!-- <img src="./images/gui.gif" width="500"/> -->
 <img src='./../images/gui.gif' width="500"/>

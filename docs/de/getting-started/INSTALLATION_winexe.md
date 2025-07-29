@@ -1,4 +1,4 @@
-[**Erste Schritte**](./getting-started.md) > **Installation** > **Windows EXE** _(aktuell)_
+[**Erste Schritte**](./erste-schritte.md) > **Installation** > **Windows EXE** _(aktuell)_
 
 ---
 
@@ -11,7 +11,7 @@
 >
 > - Wenn Sie PDFMathTranslate zum ersten Mal herunterladen und verwenden, wird empfohlen, `pdf2zh-<version>-with-assets-win64.zip` herunterzuladen.
 > - Die `pdf2zh-<version>-with-assets-win64.zip` enthält im Vergleich zu `pdf2zh-<version>-win64.zip` zusätzliche Ressourcendateien (wie Schriftarten und Modelle).
-> - Die Version ohne Assets lädt die Ressourcen beim Ausführen dynamisch nach, aber der Download kann aufgrund von Netzwerkproblemen fehlschlagen.
+> - Die Version ohne Assets lädt die Ressourcen beim Ausführen dynamisch herunter, aber der Download kann aufgrund von Netzwerkproblemen fehlschlagen.
 
 ***Schritt 2*** | Entpacken Sie `pdf2zh-<version>-with-assets-win64.zip` und navigieren Sie zum Ordner `pdf2zh`. Das Entpacken dauert eine Weile, bitte haben Sie Geduld.
 
@@ -22,7 +22,7 @@
 >
 > Wenn Sie Probleme beim Ausführen von pdf2zh.exe haben, installieren Sie bitte `https://aka.ms/vs/17/release/vc_redist.x64.exe` und versuchen Sie es erneut.
 
-***Schritt 4*** | Nach dem Doppelklicken auf die exe-Datei öffnet sich ein Terminal. Nach etwa einer halben bis einer Minute öffnet sich eine Webseite in Ihrem Standardbrowser. Falls dies nicht geschieht, können Sie versuchen, manuell auf `http://localhost:7860/` zuzugreifen.
+***Schritt 4*** | Nach dem Doppelklick auf die exe-Datei öffnet sich ein Terminal. Nach etwa einer halben bis einer Minute öffnet sich eine Webseite in Ihrem Standardbrowser. Falls dies nicht geschieht, können Sie versuchen, manuell auf `http://localhost:7860/` zuzugreifen.
 
 > [!NOTE]
 >

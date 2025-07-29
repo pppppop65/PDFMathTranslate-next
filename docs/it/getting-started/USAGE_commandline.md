@@ -14,7 +14,7 @@ pdf2zh_next document.pdf
 
 > [!NOTE]
 > 
-> Se il percorso del file contiene spazi, si prega di racchiuderlo tra virgolette.
+> Se il nome del percorso contiene spazi, si prega di racchiuderlo tra virgolette.
 > 
 > ```bash
 > pdf2zh_next "path with spaces/document.pdf"
@@ -30,7 +30,7 @@ Dopo aver eseguito la traduzione, i file vengono generati nella **directory di l
 > PS C:\Users\XXX>
 > ```
 > 
-> Questa directory è la "*Directory di lavoro corrente*".
+> Questa directory è la "*Directory di lavoro corrente*."
 > 
 > Se non c'è alcun percorso, prova a eseguire questo comando nel terminale:
 > 

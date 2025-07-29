@@ -14,7 +14,7 @@ Encontré el siguiente error de interrupción mientras descargaba el modelo. ¿Q
   ![image](https://github.com/user-attachments/assets/3c4eed44-3d9b-4e2f-a224-a58edca718c2)
 
 - **Respuesta**:
-La red está recibiendo interferencias, por favor utiliza un enlace de red estable o intenta evitar la intervención de la red.
+La red está recibiendo interferencias, por favor usa un enlace de red estable o intenta evitar la intervención de la red.
 
 ## ¿Cómo actualizar a la última versión?
 - **Pregunta**:
@@ -46,11 +46,11 @@ Al descargar modelos de hugging face, los usuarios en China pueden experimentar 
   - [Actualizar certificados](https://stackoverflow.com/questions/51925384/unable-to-get-local-issuer-certificate-when-using-requests), como se sugiere en [issue #55](https://github.com/PDFMathTranslate/PDFMathTranslate-next/issues/55).
 
 ## Localhost no es accesible
-Por favor, vea a continuación.
+Por favor, consulta a continuación.
 
 ## Error al iniciar la GUI usando 0.0.0.0
 - **Problema**:
-El uso de software de proxy en modo global puede evitar que Gradio se inicie correctamente. Por ejemplo, en el [issue #77](https://github.com/PDFMathTranslate/PDFMathTranslate-next/issues/77).
+El uso de software de proxy en modo global puede impedir que Gradio se inicie correctamente. Por ejemplo, en el [issue #77](https://github.com/PDFMathTranslate/PDFMathTranslate-next/issues/77).
 
 - **Solución**:
 Usar modo regla

@@ -3,45 +3,45 @@
 ## Nosso Compromisso
 
 Nós, como membros, colaboradores e líderes, nos comprometemos a tornar a participação em nossa
-comunidade uma experiência livre de assédio para todos, independentemente de idade, tamanho do corpo,
-deficiência visível ou invisível, etnia, características sexuais, identidade e expressão de gênero,
-nível de experiência, educação, status socioeconômico, nacionalidade, aparência pessoal, raça, religião ou identidade sexual
-e orientação.
+comunidade uma experiência livre de assédio para todos, independentemente de idade, tamanho
+corporal, deficiência visível ou invisível, etnia, características sexuais, identidade e expressão de gênero,
+nível de experiência, educação, status socioeconômico, nacionalidade, aparência pessoal, raça, religião ou identidade
+e orientação sexual.
 
 Nos comprometemos a agir e interagir de maneiras que contribuam para uma comunidade aberta, acolhedora,
 diversa, inclusiva e saudável.
 
 ## Nossos Padrões
 
-Exemplos de comportamentos que contribuem para um ambiente positivo para nossa
+Exemplos de comportamento que contribuem para um ambiente positivo em nossa
 comunidade incluem:
 
 * Demonstrar empatia e gentileza em relação às outras pessoas
 * Ser respeitoso com opiniões, pontos de vista e experiências diferentes
-* Dar e aceitar graciosamente feedback construtivo
-* Aceitar responsabilidade e pedir desculpas àqueles afetados por nossos erros,
+* Oferecer e aceitar com elegância feedbacks construtivos
+* Assumir responsabilidade e pedir desculpas àqueles afetados por nossos erros,
   e aprender com a experiência
-* Focar no que é melhor não apenas para nós como indivíduos, mas para a
-  comunidade como um todo
+* Focar no que é melhor não apenas para nós como indivíduos, mas para toda a
+  comunidade
 
 Exemplos de comportamentos inaceitáveis incluem:
 
 * O uso de linguagem ou imagens sexualizadas, e atenção ou avanços sexuais de qualquer tipo
-* Trollagem, comentários insultuosos ou depreciativos, e ataques pessoais ou políticos
+* Comentários de provocação, insultos ou depreciativos, e ataques pessoais ou políticos
 * Assédio público ou privado
-* Publicar informações privadas de outras pessoas, como endereço físico ou de e-mail, sem sua permissão explícita
+* Publicar informações privadas de outras pessoas, como um endereço físico ou de e-mail, sem sua permissão explícita
 * Outros comportamentos que possam razoavelmente ser considerados inadequados em um ambiente profissional
 
-## Responsabilidades de Fiscalização
+## Responsabilidades de Execução
 
-Os líderes da comunidade são responsáveis por esclarecer e fazer cumprir nossos padrões de
-comportamento aceitável e tomarão medidas corretivas apropriadas e justas em
-resposta a qualquer comportamento que considerem inapropriado, ameaçador, ofensivo,
+Os líderes da comunidade são responsáveis por esclarecer e aplicar nossos padrões de
+comportamento aceitável e tomarão ações corretivas apropriadas e justas em
+resposta a qualquer comportamento que considerarem inadequado, ameaçador, ofensivo,
 ou prejudicial.
 
 Os líderes da comunidade têm o direito e a responsabilidade de remover, editar ou rejeitar
-comentários, commits, código, edições na wiki, problemas e outras contribuições que não estejam
-alinhadas a este Código de Conduta, e comunicarão os motivos das decisões de moderação
+comentários, commits, código, edições na wiki, issues e outras contribuições que não estejam
+alinhadas com este Código de Conduta, e comunicarão os motivos das decisões de moderação
 quando apropriado.
 
 ## Escopo
@@ -60,7 +60,7 @@ aw@funstory.ai .
 Todas as reclamações serão revisadas e investigadas de forma rápida e justa.
 
 Todos os líderes da comunidade são obrigados a respeitar a privacidade e a segurança do
-denunciante de qualquer incidente.
+relator de qualquer incidente.
 
 ## Diretrizes de aplicação
 
@@ -83,25 +83,24 @@ de ações.
 
 **Consequência**: Um aviso com consequências para comportamento contínuo. Nenhuma
 interação com as pessoas envolvidas, incluindo interação não solicitada com
-aqueles que estão aplicando o Código de Conduta, por um período de tempo especificado. Isso
+aqueles que aplicam o Código de Conduta, por um período de tempo especificado. Isso
 inclui evitar interações nos espaços da comunidade, bem como em canais externos
 como mídias sociais. Violar esses termos pode levar a um banimento temporário ou
 permanente.
 
-### 3. Banimento Temporário
+### 3. Banimento temporário
 
 **Impacto na Comunidade**: Uma violação grave dos padrões da comunidade, incluindo
 comportamento inadequado sustentado.
 
 **Consequência**: Um banimento temporário de qualquer tipo de interação ou comunicação
 pública com a comunidade por um período específico de tempo. Nenhuma interação pública ou
-privada com as pessoas envolvidas, incluindo interação não solicitada com aqueles que aplicam
-o Código de Conduta, é permitida durante este período. Violar esses termos pode levar a um
-banimento permanente.
+privada com as pessoas envolvidas, incluindo interação não solicitada com aqueles que aplicam o Código de Conduta, é permitida durante este período.
+Violar esses termos pode levar a um banimento permanente.
 
 ### 4. Banimento permanente
 
-**Impacto na Comunidade**: Demonstrar um padrão de violação dos padrões da comunidade, incluindo comportamento inadequado persistente, assédio a um indivíduo ou agressão ou depreciação de classes de indivíduos.
+**Impacto na Comunidade**: Demonstrar um padrão de violação dos padrões da comunidade, incluindo comportamento inadequado contínuo, assédio a um indivíduo ou agressão ou difamação de classes de indivíduos.
 
 **Consequência**: Um banimento permanente de qualquer tipo de interação pública dentro da comunidade.
 
