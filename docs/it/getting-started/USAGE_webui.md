@@ -8,7 +8,7 @@
 
 Esistono diversi metodi per aprire l'interfaccia WebUI. Se stai utilizzando **Windows**, consulta [questo articolo](./INSTALLATION_winexe.md);
 
-1. Python installato (3.10 <= versione <= 3.13)
+1. Python installato (versione compresa tra 3.10 e 3.13)
 
 2. Installare il nostro pacchetto:
 
@@ -24,7 +24,7 @@ Esistono diversi metodi per aprire l'interfaccia WebUI. Se stai utilizzando **Wi
     http://localhost:7860/
     ```
 
-    Trascina il file PDF nella finestra e clicca `Translate`.
+    Trascina il file PDF nella finestra e clicca su `Translate`.
 
 <!-- <img src="./images/gui.gif" width="500"/> -->
 <img src='./../images/gui.gif' width="500"/>
@@ -33,8 +33,8 @@ Esistono diversi metodi per aprire l'interfaccia WebUI. Se stai utilizzando **Wi
 
 È possibile impostare le lingue di origine e di destinazione utilizzando le variabili d'ambiente:
 
-- `PDF2ZH_LANG_FROM`: Imposta la lingua di origine. Predefinito a "English".
-- `PDF2ZH_LANG_TO`: Imposta la lingua di destinazione. Predefinito a "Simplified Chinese".
+- `PDF2ZH_LANG_FROM`: Imposta la lingua di origine. Predefinito è "English".
+- `PDF2ZH_LANG_TO`: Imposta la lingua di destinazione. Predefinito è "Simplified Chinese".
 
 ## Anteprima
 

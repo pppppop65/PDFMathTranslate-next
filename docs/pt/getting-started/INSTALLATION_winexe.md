@@ -1,4 +1,4 @@
-[**Começar**](./getting-started.md) > **Instalação** > **Windows EXE** _(current)_
+[**Começar**](./comecar.md) > **Instalação** > **Windows EXE** _(atual)_
 
 ---
 
@@ -13,9 +13,9 @@
 > - O `pdf2zh-<version>-with-assets-win64.zip` inclui arquivos de recursos (como fontes e modelos) em comparação com `pdf2zh-<version>-win64.zip`.
 > - A versão sem recursos também fará o download dinâmico dos recursos durante a execução, mas o download pode falhar devido a problemas de rede.
 
-***Passo 2*** | Descompacte `pdf2zh-<version>-with-assets-win64.zip` e navegue até a pasta `pdf2zh`. A descompressão pode levar um tempo, por favor, seja paciente.
+***Passo 2*** | Descompacte `pdf2zh-<version>-with-assets-win64.zip` e navegue até a pasta `pdf2zh`. Leva um tempo para descompactar, por favor, seja paciente.
 
-***Passo 3*** | Navegue até a pasta `pdf2zh`, então dê um duplo clique em `pdf2zh.exe`.
+***Passo 3*** | Navegue até a pasta `pdf2zh`, depois clique duas vezes em `pdf2zh.exe`.
 
 > [!TIP]
 > **Não consegue executar o arquivo .exe**

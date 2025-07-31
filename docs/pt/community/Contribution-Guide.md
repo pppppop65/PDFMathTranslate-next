@@ -2,22 +2,22 @@
 
 > [!CAUTION]
 >
-> Os mantenedores atuais do projeto estão pesquisando a internacionalização automatizada da documentação. Portanto, quaisquer PRs relacionados à internacionalização/tradução da documentação NÃO serão aceitos!
+> Os mantenedores atuais do projeto estão pesquisando a internacionalização automatizada da documentação. Portanto, qualquer PR relacionado à internacionalização/tradução da documentação NÃO será aceito!
 >
 > Por favor, NÃO envie PRs relacionados à internacionalização/tradução da documentação!
 
 Obrigado pelo seu interesse neste projeto! Antes de começar a contribuir, reserve um tempo para ler as seguintes diretrizes para garantir que sua contribuição possa ser aceita sem problemas.
 
-## Tipos de contribuições não aceitas
+## Tipos de Contribuições Não Aceitas
 
-1. Documentação de internacionalização/tradução
-2. Contribuições relacionadas à infraestrutura principal, como API HTTP, etc.
-3. Problemas explicitamente marcados como "No help needed" (incluindo problemas nos repositórios [Byaidu/PDFMathTranslate](Byaidu/PDFMathTranslate) e [PDFMathTranslate/PDFMathTranslate-next](PDFMathTranslate/PDFMathTranslate-next)).
-4. Outras contribuições consideradas inadequadas pelos mantenedores.
-5. Documentação de contribuição, mas alterando a documentação em idiomas diferentes do inglês.
+1. Documentação de internacionalização/tradução  
+2. Contribuições relacionadas à infraestrutura principal, como API HTTP, etc.  
+3. Problemas explicitamente marcados como "No help needed" (incluindo problemas nos repositórios [Byaidu/PDFMathTranslate](Byaidu/PDFMathTranslate) e [PDFMathTranslate/PDFMathTranslate-next](PDFMathTranslate/PDFMathTranslate-next)).  
+4. Outras contribuições consideradas inadequadas pelos mantenedores.  
+5. Contribuição com documentação, mas alterando a documentação em idiomas diferentes do inglês.  
 6. PRs que exigem modificação de arquivos PDF.
 
-Por favor, NÃO envie PRs relacionados aos tipos acima.
+Por favor, NÃO envie PRs relacionados aos tipos mencionados acima.
 
 > [!NOTE]
 >
@@ -49,46 +49,46 @@ Por favor, NÃO envie PRs relacionados aos tipos acima.
 
 <h4 id="sop">1. Fluxo de trabalho</h4>
 
-- Por favor, faça um fork a partir do branch `main` e desenvolva no seu branch forkado.
+   - Por favor, faça um fork a partir do branch `main` e desenvolva no seu branch bifurcado.
    - Ao enviar um Pull Request (PR), forneça uma descrição detalhada das suas alterações.
-   - Se o seu PR não passar nas verificações automatizadas (indicado por `checks failed` e um símbolo de cruz vermelha), por favor revise os `details` correspondentes e modifique sua submissão para garantir que o novo PR passe em todas as verificações.
+   - Se o seu PR não passar nas verificações automatizadas (indicado por `checks failed` e um cruz vermelho), revise os `details` correspondentes e modifique sua submissão para garantir que o novo PR passe em todas as verificações.
 
 
 <h4 id="dev&test">2. Desenvolvimento e Testes</h4>
 
-- Use o comando `pip install -e .` para desenvolvimento e teste.
+   - Use o comando `pip install -e .` para desenvolvimento e teste.
 
 
-<h4 id="format">3. Formatação de Código</h4>
+<h4 id="format">3. Formatação de código</h4>
 
-- Configure a ferramenta `pre-commit` e habilite `black` e `flake8` para formatação de código.
+   - Configure a ferramenta `pre-commit` e habilite `black` e `flake8` para formatação de código.
 
 
-<h4 id="requpdate">4. Atualizações de Dependências</h4>
+<h4 id="requpdate">4. Atualizações de dependências</h4>
 
-- Se você introduzir novas dependências, atualize a lista de dependências no arquivo `pyproject.toml` em tempo hábil.
+   - Se você introduzir novas dependências, atualize a lista de dependências no arquivo `pyproject.toml` em tempo hábil.
 
 
 <h4 id="docupdate">5. Atualizações da Documentação</h4>
 
-- Se você adicionar novas opções de linha de comando, atualize a lista de opções de linha de comando em todas as versões de idioma do arquivo `README.md` de acordo.
+   - Se você adicionar novas opções de linha de comando, atualize a lista de opções de linha de comando em todas as versões de idioma do arquivo `README.md` de acordo.
 
 
 <h4 id="commitmsg">6. Mensagens de Commit</h4>
 
-- Use [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/), por exemplo: `feat(translator): add openai`.
+   - Use [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/), por exemplo: `feat(translator): add openai`.
 
 
 <h4 id="codestyle">7. Estilo de Codificação</h4>
 
-- Certifique-se de que o código enviado adere aos padrões básicos de estilo de codificação.
+   - Certifique-se de que o código enviado adere aos padrões básicos de estilo de codificação.
    - Use snake_case ou camelCase para nomeação de variáveis.
 
 
-<h4 id="doctypo">8. Formatação da Documentação</h4>
+<h4 id="doctypo">8. Formatação de Documentação</h4>
 
-- Para a formatação de `README.md`, siga as [Diretrizes de Redação em Chinês](https://github.com/sparanoid/chinese-copywriting-guidelines).
-   - Certifique-se de que a documentação em inglês e chinês esteja sempre atualizada; as atualizações de documentação em outros idiomas são opcionais.
+   - Para a formatação de `README.md`, siga as [Diretrizes de Redação em Chinês](https://github.com/sparanoid/chinese-copywriting-guidelines).
+   - Certifique-se de que a documentação em inglês e chinês esteja sempre atualizada; as atualizações da documentação em outros idiomas são opcionais.
 
 ## Adicionando um mecanismo de tradução
 
@@ -98,25 +98,25 @@ Por favor, NÃO envie PRs relacionados aos tipos acima.
 
 > [!NOTE]
 >
-> Este projeto não pretende suportar nenhum mecanismo de tradução com um RPS (solicitações por segundo) inferior a 4. Por favor, não envie suporte para tais mecanismos.
+> Este projeto não pretende suportar nenhum mecanismo de tradução com um RPS (solicitações por segundo) inferior a 4. Por favor, não envie suporte para esses mecanismos.
 
 ## Estrutura do projeto
 
-- **config folder**: Sistema de configuração.
-- **translator folder**: Implementações relacionadas ao tradutor.
-- **gui.py**: Fornece a interface gráfica.
-- **const.py**: Algumas constantes.
-- **main.py**: Fornece a ferramenta de linha de comando.
-- **high_level.py**: Interfaces de alto nível baseadas no BabelDOC.
-- **http_api.py**: Fornece API HTTP (não iniciada).
+- **pasta config**: Sistema de configuração.  
+- **pasta translator**: Implementações relacionadas ao tradutor.  
+- **gui.py**: Fornece a interface gráfica.  
+- **const.py**: Algumas constantes.  
+- **main.py**: Fornece a ferramenta de linha de comando.  
+- **high_level.py**: Interfaces de alto nível baseadas no BabelDOC.  
+- **http_api.py**: Fornece API HTTP (não iniciado).
 
-## Contate-nos
+## Entre em contato conosco
 
 Se você tiver alguma dúvida, envie um feedback via Issue ou entre no nosso Grupo do Telegram. Obrigado pela sua contribuição!
 
 > [!TIP]
 >
-> [Immersive Translate](https://immersivetranslate.com) patrocina mensalmente códigos de assinatura Pro para contribuidores ativos deste projeto. Para detalhes, consulte: [BabelDOC/PDFMathTranslate Regras de Recompensa para Contribuidores](https://funstory-ai.github.io/BabelDOC/CONTRIBUTOR_REWARD/)
+> [Immersive Translate](https://immersivetranslate.com) patrocina mensalmente códigos de assinatura Pro para contribuidores ativos deste projeto. Para mais detalhes, consulte: [BabelDOC/PDFMathTranslate Regras de Recompensa para Contribuidores](https://funstory-ai.github.io/BabelDOC/CONTRIBUTOR_REWARD/)
 
 <div align="right"> 
 <h6><small>Parte do conteúdo desta página foi traduzida pelo GPT e pode conter erros.</small></h6>

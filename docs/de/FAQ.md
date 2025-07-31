@@ -9,7 +9,7 @@ Da das Programm künstliche Intelligenz zur Erkennung und Extraktion von Dokumen
 
 ## Download unterbrochen?
 - **Frage**:
-Ich bin beim Herunterladen des Modells auf den folgenden Unterbrechungsfehler gestoßen. Was soll ich tun?
+Beim Herunterladen des Modells ist mir der folgende Unterbrechungsfehler aufgetreten. Was soll ich tun?
 
   ![image](https://github.com/user-attachments/assets/3c4eed44-3d9b-4e2f-a224-a58edca718c2)
 
@@ -18,7 +18,7 @@ Das Netzwerk erfährt Störungen, bitte verwenden Sie eine stabile Netzwerkverbi
 
 ## Wie aktualisiere ich auf die neueste Version?
 - **Frage**:
-Ich möchte einige Funktionen der neuesten Version nutzen, wie aktualisiere ich auf die neueste Version?
+Ich möchte einige der Funktionen der neuesten Version nutzen, wie aktualisiere ich auf die neueste Version?
 
 - **Antwort**:
 `pip install -U pdf2zh`
@@ -29,7 +29,7 @@ Ich möchte einige Funktionen der neuesten Version nutzen, wie aktualisiere ich 
 Beim Ausführen des Programms erhalten Benutzer die folgende Ausgabe: `Die folgenden Dateien existieren nicht: example.pdf`, wenn das Dokument nicht gefunden wurde.
 
 - **Lösung**:
-  - Öffnen Sie die Kommandozeile im Verzeichnis, in dem sich die Datei befindet, oder
+  - Öffnen Sie die Kommandozeile in dem Verzeichnis, in dem sich die Datei befindet, oder
   - Geben Sie den vollständigen Pfad der Datei direkt nach pdf2zh ein, oder
   - Verwenden Sie den interaktiven Modus `pdf2zh -i`, um Dateien direkt per Drag & Drop einzufügen
 
@@ -46,7 +46,7 @@ Beim Herunterladen von Hugging Face-Modellen können Benutzer in China Netzwerkf
   - [Zertifikate aktualisieren](https://stackoverflow.com/questions/51925384/unable-to-get-local-issuer-certificate-when-using-requests), wie in [Issue #55](https://github.com/PDFMathTranslate/PDFMathTranslate-next/issues/55) vorgeschlagen.
 
 ## Localhost ist nicht erreichbar
-Bitte sehen Sie unten.
+Bitte siehe unten.
 
 ## Fehler beim Starten der GUI mit 0.0.0.0
 - **Problem**:

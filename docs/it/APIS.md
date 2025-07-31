@@ -3,7 +3,7 @@
 > Questo documento è obsoleto, si prega di non farvi riferimento.
 
 <h2 id="toc">Indice dei contenuti</h2>
-Il presente progetto supporta due tipi di API, tutti i metodi richiedono Redis;
+Il presente progetto supporta due tipi di API, tutti i metodi necessitano del Redis;
 
 - [Chiamate funzionali in Python](#api-python)
 - [Protocolli HTTP](#api-http)
@@ -14,7 +14,7 @@ Il presente progetto supporta due tipi di API, tutti i metodi richiedono Redis;
 
 Poiché `pdf2zh` è un modulo installato in Python, esponiamo due metodi che altri programmi possono chiamare in qualsiasi script Python.
 
-Ad esempio, se desideri tradurre un documento dall'inglese al cinese utilizzando Google Translate, puoi usare il seguente codice:
+Ad esempio, se desideri tradurre un documento dall'inglese al cinese utilizzando Google Translate, puoi utilizzare il seguente codice:
 
 ```python
 from pdf2zh_next import translate, translate_stream
@@ -26,7 +26,7 @@ params = {
     'thread': 4,
 }
 ```
-Tradurre con file:
+Traduci con file:
 ```python
 (file_mono, file_dual) = translate(files=['example.pdf'], **params)[0]
 ```
@@ -36,15 +36,15 @@ with open('example.pdf', 'rb') as f:
     (stream_mono, stream_dual) = translate_stream(stream=f.read(), **params)
 ```
 
-[⬆️ Torna su](#toc)
+[⬆️ Torna all'inizio](#toc)
 
 ---
 
 <h2 id="api-http">HTTP</h2>
 
-In modo più flessibile, puoi comunicare con il programma utilizzando i protocolli HTTP, se:
+In un modo più flessibile, puoi comunicare con il programma utilizzando i protocolli HTTP, se:
 
-1. Installazione ed esecuzione del backend
+1. Installa ed esegui il backend
 
    ```bash
    pip install pdf2zh_next[backend]
@@ -54,45 +54,45 @@ In modo più flessibile, puoi comunicare con il programma utilizzando i protocol
 
 2. Utilizzo dei protocolli HTTP come segue:
 
-   - Invio del task di traduzione
+   - Invia un'attività di traduzione
 
      ```bash
      curl http://localhost:11008/v1/translate -F "file=@example.pdf" -F "data={\"lang_in\":\"en\",\"lang_out\":\"zh\",\"service\":\"google\",\"thread\":4}"
      {"id":"d9894125-2f4e-45ea-9d93-1a9068d2045a"}
      ```
 
-   - Controllo dello stato di avanzamento
+   - Controlla lo stato di avanzamento
 
      ```bash
      curl http://localhost:11008/v1/translate/d9894125-2f4e-45ea-9d93-1a9068d2045a
      {"info":{"n":13,"total":506},"state":"PROGRESS"}
      ```
 
-   - Controllo dello stato di avanzamento _(se completato)_
+   - Controlla lo stato di avanzamento _(se completato)_
 
      ```bash
      curl http://localhost:11008/v1/translate/d9894125-2f4e-45ea-9d93-1a9068d2045a
      {"state":"SUCCESS"}
      ```
 
-   - Salvataggio del file monolingue
+   - Salva il file monolingue
 
      ```bash
      curl http://localhost:11008/v1/translate/d9894125-2f4e-45ea-9d93-1a9068d2045a/mono --output example-mono.pdf
      ```
 
-   - Salvataggio del file bilingue
+   - Salva il file bilingue
 
      ```bash
      curl http://localhost:11008/v1/translate/d9894125-2f4e-45ea-9d93-1a9068d2045a/dual --output example-dual.pdf
      ```
 
-   - Interruzione se in esecuzione ed eliminazione del task
+   - Interrompi se in esecuzione ed elimina l'attività
      ```bash
      curl http://localhost:11008/v1/translate/d9894125-2f4e-45ea-9d93-1a9068d2045a -X DELETE
      ```
 
-[⬆️ Torna su](#toc)
+[⬆️ Torna all'inizio](#toc)
 
 ---
 

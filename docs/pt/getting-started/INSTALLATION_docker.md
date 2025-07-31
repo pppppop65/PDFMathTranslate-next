@@ -1,4 +1,4 @@
-[**Começar**](./getting-started.md) > **Instalação** > **Docker** _(atual)_
+[**Começar**](./comecar.md) > **Instalação** > **Docker** _(atual)_
 
 ---
 
@@ -19,14 +19,14 @@ docker run -d -p 7860:7860 awwaawwa/pdfmathtranslate-next
 
 > [!NOTE]
 > 
-> - Se você não conseguir acessar o Docker Hub, tente a imagem no [GitHub Container Registry](https://github.com/PDFMathTranslate/PDFMathTranslate-next/pkgs/container/pdfmathtranslate).
+> - Se você não consegue acessar o Docker Hub, tente a imagem no [GitHub Container Registry](https://github.com/PDFMathTranslate/PDFMathTranslate-next/pkgs/container/pdfmathtranslate).
 > 
 > ```bash
 > docker pull ghcr.io/PDFMathTranslate/PDFMathTranslate-next
 > docker run -d -p 7860:7860 ghcr.io/PDFMathTranslate/PDFMathTranslate-next
 > ```
 
-<h4>2. Insira esta URL no seu navegador padrão para abrir a página WebUI:</h4>
+<h4>2. Digite esta URL no seu navegador padrão para abrir a página WebUI:</h4>
 
 ```
 http://localhost:7860/

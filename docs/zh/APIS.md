@@ -2,8 +2,8 @@
 >
 > 本文档已过时，请勿参考。
 
-<h2 id="toc">目录</h2>
-本项目支持两种类型的 API，所有方法都需要 Redis；
+<h2 id="目录">目录</h2>
+当前项目支持两种类型的 API，所有方法都需要 Redis；
 
 - [Python 中的函数调用](#api-python)
 - [HTTP 协议](#api-http)
@@ -12,9 +12,9 @@
 
 <h2 id="api-python">Python</h2>
 
-由于 `pdf2zh` 是 Python 中的一个已安装模块，我们提供了两个方法供其他程序在任何 Python 脚本中调用。
+由于 `pdf2zh` 是 Python 中已安装的模块，我们公开了两个方法供其他程序在任何 Python 脚本中调用。
 
-例如，如果你想使用谷歌翻译将文档从英语翻译成中文，可以使用以下代码：
+例如，如果你想使用 Google 翻译将文档从英语翻译成中文，可以使用以下代码：
 
 ```python
 from pdf2zh_next import translate, translate_stream
@@ -30,7 +30,7 @@ params = {
 ```python
 (file_mono, file_dual) = translate(files=['example.pdf'], **params)[0]
 ```
-通过流式传输翻译：
+流式翻译：
 ```python
 with open('example.pdf', 'rb') as f:
     (stream_mono, stream_dual) = translate_stream(stream=f.read(), **params)
@@ -87,7 +87,7 @@ with open('example.pdf', 'rb') as f:
      curl http://localhost:11008/v1/translate/d9894125-2f4e-45ea-9d93-1a9068d2045a/dual --output example-dual.pdf
      ```
 
-   - 若任务正在运行可中断并删除
+   - 中断运行中的任务并删除
      ```bash
      curl http://localhost:11008/v1/translate/d9894125-2f4e-45ea-9d93-1a9068d2045a -X DELETE
      ```

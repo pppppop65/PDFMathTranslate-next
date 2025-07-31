@@ -6,15 +6,15 @@
 >
 > Bitte reichen Sie keine PRs im Zusammenhang mit der Internationalisierung/Übersetzung der Dokumentation ein!
 
-Vielen Dank für Ihr Interesse an diesem Projekt! Bevor Sie mit Ihrem Beitrag beginnen, nehmen Sie sich bitte etwas Zeit, um die folgenden Richtlinien zu lesen, um sicherzustellen, dass Ihr Beitrag problemlos akzeptiert werden kann.
+Vielen Dank für Ihr Interesse an diesem Projekt! Bevor Sie mit Ihrem Beitrag beginnen, nehmen Sie sich bitte etwas Zeit, um die folgenden Richtlinien zu lesen, damit Ihr Beitrag problemlos akzeptiert werden kann.
 
-## Arten von Beiträgen, die nicht akzeptiert werden
+## Nicht akzeptierte Beitragsarten
 
 1. Dokumentationsinternationalisierung/-übersetzung
-2. Beiträge im Zusammenhang mit der Kerninfrastruktur, wie z. B. HTTP-API usw.
-3. Probleme, die ausdrücklich als "Keine Hilfe benötigt" markiert sind (einschließlich Probleme im [Byaidu/PDFMathTranslate](Byaidu/PDFMathTranslate) und im [PDFMathTranslate/PDFMathTranslate-next](PDFMathTranslate/PDFMathTranslate-next) Repository).
+2. Beiträge zur Kerninfrastruktur, wie z.B. HTTP-API usw.
+3. Probleme, die explizit als "Keine Hilfe benötigt" markiert sind (einschließlich Probleme im [Byaidu/PDFMathTranslate](Byaidu/PDFMathTranslate) und im [PDFMathTranslate/PDFMathTranslate-next](PDFMathTranslate/PDFMathTranslate-next) Repository).
 4. Andere Beiträge, die von den Maintainern als unangemessen erachtet werden.
-5. Beitragsdokumentation, aber Änderung der Dokumentation in anderen Sprachen als Englisch.
+5. Beitrag zur Dokumentation, aber Änderung der Dokumentation in anderen Sprachen als Englisch.
 6. PRs, die eine Änderung von PDF-Dateien erfordern.
 
 Bitte reichen Sie keine PRs ein, die sich auf die oben genannten Arten beziehen.
@@ -34,7 +34,7 @@ Bitte reichen Sie keine PRs ein, die sich auf die oben genannten Arten beziehen.
    git commit -m "<semantic commit message>"
    ```
 5. Pushen Sie zu Ihrem Repository: `git push origin feature/<feature-name>`.
-6. Erstellen Sie einen PR auf GitHub, geben Sie eine detaillierte Beschreibung an und bitten Sie [@awwaawwa](https://github.com/awwaawwa) um eine Überprüfung.
+6. Erstellen Sie einen PR auf GitHub, geben Sie eine detaillierte Beschreibung an und fordern Sie eine Überprüfung von [@awwaawwa](https://github.com/awwaawwa) an.
 7. Stellen Sie sicher, dass alle automatisierten Prüfungen bestanden werden.
 
 > [!TIP]
@@ -49,45 +49,45 @@ Bitte reichen Sie keine PRs ein, die sich auf die oben genannten Arten beziehen.
 
 <h4 id="sop">1. Arbeitsablauf</h4>
 
-- Bitte forken Sie vom `main`-Branch und entwickeln Sie auf Ihrem geforkten Branch.
+   - Bitte forken Sie vom `main`-Branch und entwickeln Sie auf Ihrem geforkten Branch.
    - Geben Sie beim Einreichen eines Pull Requests (PR) eine detaillierte Beschreibung Ihrer Änderungen an.
-   - Wenn Ihr PR die automatischen Prüfungen nicht besteht (angezeigt durch `checks failed` und ein rotes Kreuz), überprüfen Sie bitte die entsprechenden `details` und passen Sie Ihre Einreichung an, damit der neue PR alle Prüfungen besteht.
+   - Wenn Ihr PR die automatisierten Prüfungen nicht besteht (angezeigt durch `checks failed` und ein rotes Kreuz), überprüfen Sie bitte die entsprechenden `details` und passen Sie Ihre Einreichung an, um sicherzustellen, dass der neue PR alle Prüfungen besteht.
 
 
-<h4 id="dev&test">2. Entwicklung und Tests</h4>
+<h4 id="entwicklung&test">2. Entwicklung und Test</h4>
 
-- Verwenden Sie den Befehl `pip install -e .` für Entwicklung und Tests.
+   - Verwenden Sie den Befehl `pip install -e .` für Entwicklung und Tests.
 
 
 <h4 id="format">3. Code-Formatierung</h4>
 
-- Konfigurieren Sie das `pre-commit`-Tool und aktivieren Sie `black` und `flake8` für die Codeformatierung.
+   - Konfigurieren Sie das `pre-commit`-Tool und aktivieren Sie `black` und `flake8` für die Codeformatierung.
 
 
 <h4 id="requpdate">4. Abhängigkeitsaktualisierungen</h4>
 
-- Wenn Sie neue Abhängigkeiten einführen, aktualisieren Sie bitte die Abhängigkeitsliste in der `pyproject.toml` Datei zeitnah.
+   - Wenn Sie neue Abhängigkeiten einführen, aktualisieren Sie bitte die Abhängigkeitsliste in der `pyproject.toml`-Datei zeitnah.
 
 
 <h4 id="docupdate">5. Dokumentationsaktualisierungen</h4>
 
-- Wenn Sie neue Kommandozeilenoptionen hinzufügen, aktualisieren Sie bitte die Liste der Kommandozeilenoptionen in allen Sprachversionen der `README.md`-Datei entsprechend.
+   - Wenn Sie neue Kommandozeilenoptionen hinzufügen, aktualisieren Sie bitte die Liste der Kommandozeilenoptionen in allen Sprachversionen der `README.md`-Datei entsprechend.
 
 
 <h4 id="commitmsg">6. Commit-Nachrichten</h4>
 
-- Verwenden Sie [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/), zum Beispiel: `feat(translator): add openai`.
+   - Verwenden Sie [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/), zum Beispiel: `feat(translator): add openai`.
 
 
-<h4 id="codestyle">7. Codierungsstil</h4>
+<h4 id="codestyle">7. Programmierstil</h4>
 
-- Stellen Sie sicher, dass Ihr eingereichter Code grundlegenden Codierungsstilstandards entspricht.
+   - Stellen Sie sicher, dass Ihr eingereichter Code grundlegenden Codierungsstilstandards entspricht.
    - Verwenden Sie entweder snake_case oder camelCase für die Benennung von Variablen.
 
 
 <h4 id="doctypo">8. Dokumentationsformatierung</h4>
 
-- Für die Formatierung von `README.md` folgen Sie bitte den [Chinesischen Richtlinien für Texterstellung](https://github.com/sparanoid/chinese-copywriting-guidelines).
+   - Für die Formatierung von `README.md` folgen Sie bitte den [Chinesischen Richtlinien für Texterstellung](https://github.com/sparanoid/chinese-copywriting-guidelines).
    - Stellen Sie sicher, dass sowohl die englische als auch die chinesische Dokumentation immer auf dem neuesten Stand sind; Aktualisierungen der Dokumentation in anderen Sprachen sind optional.
 
 ## Hinzufügen einer Übersetzungsmaschine
@@ -103,16 +103,16 @@ Bitte reichen Sie keine PRs ein, die sich auf die oben genannten Arten beziehen.
 ## Projektstruktur
 
 - **config folder**: Konfigurationssystem.
-- **translator folder**: Übersetzerbezogene Implementierungen.
-- **gui.py**: Stellt die GUI-Oberfläche bereit.
+- **translator folder**: Implementierungen im Zusammenhang mit dem Übersetzer.
+- **gui.py**: Stellt die GUI-Schnittstelle bereit.
 - **const.py**: Einige Konstanten.
 - **main.py**: Stellt das Kommandozeilen-Tool bereit.
-- **high_level.py**: Hochlevel-Schnittstellen basierend auf BabelDOC.
+- **high_level.py**: Hochrangige Schnittstellen basierend auf BabelDOC.
 - **http_api.py**: Stellt HTTP-API bereit (nicht gestartet).
 
 ## Kontaktieren Sie uns
 
-Wenn Sie Fragen haben, reichen Sie bitte Feedback über ein Issue ein oder treten Sie unserer Telegram-Gruppe bei. Vielen Dank für Ihren Beitrag!
+Wenn Sie Fragen haben, senden Sie bitte Feedback über ein Issue oder treten Sie unserer Telegram-Gruppe bei. Vielen Dank für Ihren Beitrag!
 
 > [!TIP]
 >

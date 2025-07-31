@@ -1,4 +1,4 @@
-[**Erste Schritte**](./getting-started.md) > **Installation** > **uv** _(aktuell)_
+[**Erste Schritte**](./erste-schritte.md) > **Installation** > **uv** _(aktuell)_
 
 ---
 

@@ -1,8 +1,8 @@
-[**Erste Schritte**](./getting-started.md) > **Installation** > **WebUI** _(aktuell)_
+[**Erste Schritte**](./erste-schritte.md) > **Installation** > **WebUI** _(aktuell)_
 
 ---
 
-### PDFMathTranslate über Webui verwenden
+### Verwenden Sie PDFMathTranslate über die Webui
 
 #### So öffnen Sie die WebUI-Seite:
 
@@ -31,7 +31,7 @@ Es gibt mehrere Methoden, um die WebUI-Oberfläche zu öffnen. Wenn Sie **Window
 
 ### Umgebungsvariablen
 
-Sie können die Quell- und Zielsprachen mit Umgebungsvariablen festlegen:
+Sie können die Quell- und Zielsprachen mithilfe von Umgebungsvariablen festlegen:
 
 - `PDF2ZH_LANG_FROM`: Legt die Ausgangssprache fest. Standardmäßig "English".
 - `PDF2ZH_LANG_TO`: Legt die Zielsprache fest. Standardmäßig "Simplified Chinese".

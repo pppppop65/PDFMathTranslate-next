@@ -11,7 +11,7 @@
 >
 > - Se stai scaricando e utilizzando PDFMathTranslate per la prima volta, si consiglia di scaricare `pdf2zh-<version>-with-assets-win64.zip`.
 > - Il file `pdf2zh-<version>-with-assets-win64.zip` include file di risorse (come font e modelli) rispetto a `pdf2zh-<version>-win64.zip`.
-> - La versione senza risorse scaricherà dinamicamente le risorse durante l'esecuzione, ma il download potrebbe fallire a causa di problemi di rete.
+> - La versione senza asset scaricherà dinamicamente le risorse durante l'esecuzione, ma il download potrebbe fallire a causa di problemi di rete.
 
 ***Passo 2*** | Decomprimi `pdf2zh-<version>-with-assets-win64.zip` e accedi alla cartella `pdf2zh`. La decompressione richiede del tempo, sii paziente.
 
@@ -31,9 +31,9 @@
 ***Passo 5*** | Divertiti!
 
 > [!TIP]
-> **Puoi utilizzare il file .exe tramite la riga di comando**
+> **Puoi utilizzare il file .exe tramite riga di comando**
 >
-> Utilizza il file .exe tramite la riga di comando come segue:
+> Utilizza il file .exe tramite riga di comando come segue:
 >
 > - Avvia il terminale e naviga nella cartella contenente il file .exe:
 >

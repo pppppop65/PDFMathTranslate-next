@@ -2,7 +2,7 @@ Algunas preguntas se hacen con frecuencia, por lo que hemos proporcionado una li
 
 ## ¿Se requiere una GPU?
 - **Pregunta**:
-Como el programa utiliza inteligencia artificial para reconocer y extraer documentos, ¿se requiere una GPU?
+Dado que el programa utiliza inteligencia artificial para reconocer y extraer documentos, ¿se requiere una GPU?
 
 - **Respuesta**:
 **No se requiere una GPU.** Pero si tienes una GPU, el programa la usará automáticamente para un mayor rendimiento.
@@ -14,7 +14,7 @@ Encontré el siguiente error de interrupción mientras descargaba el modelo. ¿Q
   ![image](https://github.com/user-attachments/assets/3c4eed44-3d9b-4e2f-a224-a58edca718c2)
 
 - **Respuesta**:
-La red está recibiendo interferencias, por favor usa un enlace de red estable o intenta evitar la intervención de la red.
+La red está recibiendo interferencias, por favor utiliza un enlace de red estable o intenta evitar la intervención de la red.
 
 ## ¿Cómo actualizar a la última versión?
 - **Pregunta**:
@@ -26,7 +26,7 @@ Quiero usar algunas de las funciones de la última versión, ¿cómo la actualiz
 
 ## Los siguientes archivos no existen: example.pdf
 - **Problema**:
-Al ejecutar el programa, los usuarios tendrían las siguientes salidas: `Los siguientes archivos no existen: example.pdf` si el documento no se encontró.
+Al ejecutar el programa, los usuarios tendrían las siguientes salidas: `Los siguientes archivos no existen: example.pdf` si no se encontró el documento.
 
 - **Solución**:
   - Abre la línea de comandos en el directorio donde se encuentra el archivo, o
@@ -36,7 +36,7 @@ Al ejecutar el programa, los usuarios tendrían las siguientes salidas: `Los sig
 
 ## Error de SSL y otros problemas de red
 - **Problema**:
-Al descargar modelos de hugging face, los usuarios en China pueden experimentar errores de red. Por ejemplo, en [issue #55](https://github.com/PDFMathTranslate/PDFMathTranslate-next/issues/55), [#70](https://github.com/PDFMathTranslate/PDFMathTranslate-next/issues/70).
+Al descargar modelos de hugging face, los usuarios en China pueden encontrar errores de red. Por ejemplo, en [issue #55](https://github.com/PDFMathTranslate/PDFMathTranslate-next/issues/55), [#70](https://github.com/PDFMathTranslate/PDFMathTranslate-next/issues/70).
 
 - **Solución**:
   - [Bypass GFW](https://github.com/clash-verge-rev/clash-verge-rev).

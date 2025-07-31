@@ -6,7 +6,7 @@
 
 #### uv とは何ですか？インストール方法は？
 
-uv は Rust で書かれた非常に高速な Python パッケージおよびプロジェクトマネージャーです。
+uv は、Rust で書かれた非常に高速な Python パッケージおよびプロジェクトマネージャーです。
 <br>
 uv をコンピュータにインストールするには、[この記事](https://docs.astral.sh/uv/getting-started/installation/)を参照してください。
 
@@ -37,17 +37,17 @@ uv をコンピュータにインストールするには、[この記事](https
         export PATH="$PATH:/Users/Username/.local/bin"
         ```
 
-        その後、ターミナルを再起動
+        その後ターミナルを再起動
 
     === "Windows"
 
-        PowerShellで以下を入力:
+        PowerShell で以下を入力:
 
         ```powershell
         $env:Path = "C:\Users\Username\.local\bin;$env:Path"
         ```
 
-        その後、ターミナルを再起動
+        その後ターミナルを再起動
 
 > [!NOTE]
 > WebUI の使用中に問題が発生した場合は、[使い方 --> WebUI](./USAGE_webui.md)を参照してください。

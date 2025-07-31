@@ -42,9 +42,9 @@ with open('example.pdf', 'rb') as f:
 
 <h2 id="api-http">HTTP</h2>
 
-Auf flexiblere Weise können Sie mit dem Programm über HTTP-Protokolle kommunizieren, wenn:
+Auf eine flexiblere Weise können Sie mit dem Programm über HTTP-Protokolle kommunizieren, wenn:
 
-1. Installation und Ausführung des Backends
+1. Backend installieren und ausführen
 
    ```bash
    pip install pdf2zh_next[backend]
@@ -52,7 +52,7 @@ Auf flexiblere Weise können Sie mit dem Programm über HTTP-Protokolle kommuniz
    pdf2zh_next --celery worker
    ```
 
-2. Verwendung der HTTP-Protokolle wie folgt:
+2. HTTP-Protokolle wie folgt verwenden:
 
    - Übersetzungsaufgabe einreichen
 

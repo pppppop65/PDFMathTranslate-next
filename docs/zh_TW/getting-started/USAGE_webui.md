@@ -6,9 +6,9 @@
 
 #### 如何開啟 WebUI 頁面：
 
-有幾種方法可以開啟 WebUI 介面。如果您使用的是 **Windows**，請參考[這篇文章](./INSTALLATION_winexe.md);
+有數種方法可以開啟 WebUI 介面。如果您使用的是 **Windows**，請參考[這篇文章](./INSTALLATION_winexe.md)；
 
-1. 已安裝 Python（版本 3.10 <= 版本 <= 3.13）
+1. 已安裝 Python（3.10 <= 版本 <= 3.13）
 
 2. 安裝我們的套件：
 
@@ -43,7 +43,7 @@
 
 ## 維護
 
-GUI 由 [Rongxin](https://github.com/reycn) 維護
+由 [Rongxin](https://github.com/reycn) 維護的 GUI
 
 <div align="right"> 
 <h6><small>Some content on this page has been translated by GPT and may contain errors.</small></h6>

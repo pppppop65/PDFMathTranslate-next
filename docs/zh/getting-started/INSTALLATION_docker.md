@@ -6,7 +6,7 @@
 
 #### 什么是 docker？
 
-[Docker](https://docs.docker.com/get-started/docker-overview/) 是一个用于开发、交付和运行应用程序的开放平台。Docker 使您能够将应用程序与基础设施分离，从而可以快速交付软件。通过 Docker，您可以用管理应用程序的方式来管理基础设施。利用 Docker 的代码交付、测试和部署方法，您可以显著减少编写代码与在生产环境中运行代码之间的延迟。
+[Docker](https://docs.docker.com/get-started/docker-overview/) 是一个用于开发、运输和运行应用程序的开放平台。Docker 使您能够将应用程序与基础设施分离，从而快速交付软件。通过 Docker，您可以用管理应用程序的方式来管理基础设施。利用 Docker 的代码运输、测试和部署方法，您可以显著减少编写代码与在生产环境中运行代码之间的延迟。
 
 #### 如何安装
 

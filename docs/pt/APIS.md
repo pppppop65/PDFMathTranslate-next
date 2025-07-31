@@ -14,7 +14,7 @@ O presente projeto suporta dois tipos de APIs, Todos os métodos precisam do Red
 
 Como `pdf2zh` é um módulo instalado em Python, expomos dois métodos para que outros programas possam chamar em qualquer script Python.
 
-Por exemplo, se você deseja traduzir um documento do inglês para o chinês usando o Google Translate, pode usar o seguinte código:
+Por exemplo, se você deseja traduzir um documento do inglês para o chinês usando o Google Tradutor, pode usar o seguinte código:
 
 ```python
 from pdf2zh_next import translate, translate_stream
@@ -30,7 +30,7 @@ Traduzir com arquivos:
 ```python
 (file_mono, file_dual) = translate(files=['example.pdf'], **params)[0]
 ```
-Traduzir com stream:
+Traduzir com fluxo:
 ```python
 with open('example.pdf', 'rb') as f:
     (stream_mono, stream_dual) = translate_stream(stream=f.read(), **params)
@@ -44,7 +44,7 @@ with open('example.pdf', 'rb') as f:
 
 De uma forma mais flexível, você pode se comunicar com o programa usando protocolos HTTP, se:
 
-1. Instalar e executar o backend
+1. Instale e execute o backend
 
    ```bash
    pip install pdf2zh_next[backend]

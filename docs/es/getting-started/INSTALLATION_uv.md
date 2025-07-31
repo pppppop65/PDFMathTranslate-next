@@ -16,7 +16,7 @@ Para instalar uv en tu computadora, consulta [este artículo](https://docs.astra
 
 1. Python instalado (versión 3.10 <= versión <= 3.13);
 
-2. Utilice el siguiente comando para usar nuestro paquete:
+2. Utiliza el siguiente comando para usar nuestro paquete:
 
     ```bash
     pip install uv
@@ -27,7 +27,7 @@ Después de la instalación, puedes comenzar la traducción mediante la **línea
 
 !!! Warning
 
-    Si ves el error `command not found: pdf2zh_next` al ejecutar, por favor configura las variables de entorno como se indica a continuación e inténtalo de nuevo:
+    Si ves el error `command not found: pdf2zh_next` al ejecutar, configura las variables de entorno de la siguiente manera e inténtalo de nuevo:
 
     === "macOS y Linux"
 
