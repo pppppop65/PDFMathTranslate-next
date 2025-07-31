@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: mkdocs-markdown-translator\n"
-"POT-Creation-Date: 2025-07-31 17:06+0800\n"
-"PO-Revision-Date: 2025-07-31 17:06+0800\n"
+"POT-Creation-Date: 2025-07-31 17:13+0800\n"
+"PO-Revision-Date: 2025-07-31 17:13+0800\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -244,106 +244,106 @@ msgid "Examples of behavior that contributes to a positive environment for our c
 msgstr "私たちのコミュニティにポジティブな環境をもたらす行動の例には、以下が含まれます：\n"
 
 # This content is from "CODE_OF_CONDUCT.md", line 13
-msgctxt "chunk_49483E30"
-msgid "* Demonstrating empathy and kindness toward other people\n* Being respectful of differing opinions, viewpoints, and experiences\n* Giving and gracefully accepting constructive feedback\n* Accepting responsibility and apologizing to those affected by our mistakes,\n  and learning from the experience\n* Focusing on what is best not just for us as individuals, but for the\n  overall community\n"
+msgctxt "chunk_8C8AA428"
+msgid "* Demonstrating empathy and kindness toward other people\n* Being respectful of differing opinions, viewpoints, and experiences\n* Giving and gracefully accepting constructive feedback\n* Accepting responsibility and apologizing to those affected by our mistakes, and learning from the experience\n* Focusing on what is best not just for us as individuals, but for the overall community\n"
 msgstr "* 他の人々に対して共感と思いやりを示すこと\n* 異なる意見、視点、経験を尊重すること\n* 建設的なフィードバックを与え、優雅に受け入れること\n* 責任を受け入れ、私たちの過ちによって影響を受けた人々に謝罪し、その経験から学ぶこと\n* 個人としてだけでなく、コミュニティ全体にとって最善なことに焦点を当てること\n"
 
-# This content is from "CODE_OF_CONDUCT.md", line 21
+# This content is from "CODE_OF_CONDUCT.md", line 19
 msgctxt "chunk_9D3CC4B6"
 msgid "Examples of unacceptable behavior include:\n"
 msgstr "許容できない行動の例には以下が含まれます：\n"
 
-# This content is from "CODE_OF_CONDUCT.md", line 23
-msgctxt "chunk_CEF666AD"
-msgid "* The use of sexualized language or imagery, and sexual attention or\n  advances of any kind\n* Trolling, insulting or derogatory comments, and personal or political attacks\n* Public or private harassment\n* Publishing others' private information, such as a physical or email\n  address, without their explicit permission\n* Other conduct which could reasonably be considered inappropriate in a\n  professional setting\n"
-msgstr "* 性的な言語や画像の使用、あらゆる種類の性的な関心やアプローチ\n* 荒らし、侮辱的または軽蔑的なコメント、個人的または政治的な攻撃\n* 公的または私的な嫌がらせ\n* 明示的な許可なしに、物理的住所やメールアドレスなど他人のプライベート情報を公開すること\n* 専門的な環境において不適切と合理的に考えられるその他の行為\n"
+# This content is from "CODE_OF_CONDUCT.md", line 21
+msgctxt "chunk_06867E28"
+msgid "* The use of sexualized language or imagery, and sexual attention or advances of any kind\n* Trolling, insulting or derogatory comments, and personal or political attacks\n* Public or private harassment\n* Publishing others' private information, such as a physical or email address, without their explicit permission\n* Other conduct which could reasonably be considered inappropriate in a professional setting\n"
+msgstr "* 性的な表現やイメージの使用、およびいかなる種類の性的な関心やアプローチ\n* 荒らし、侮辱的または軽蔑的なコメント、個人的または政治的な攻撃\n* 公的または私的な嫌がらせ\n* 明示的な許可なしに、物理的な住所やメールアドレスなど他人の個人情報を公開すること\n* 専門的な環境において不適切と合理的に考えられるその他の行為\n"
 
-# This content is from "CODE_OF_CONDUCT.md", line 32
+# This content is from "CODE_OF_CONDUCT.md", line 27
 msgctxt "chunk_F1541146"
 msgid "## Enforcement Responsibilities\n"
 msgstr "## 施行責任\n"
 
-# This content is from "CODE_OF_CONDUCT.md", line 34
+# This content is from "CODE_OF_CONDUCT.md", line 29
 msgctxt "chunk_EE74991B"
 msgid "Community leaders are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful.\n\nCommunity leaders have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, and will communicate reasons for moderation decisions when appropriate.\n"
 msgstr "コミュニティリーダーは、許容される行動基準を明確にし、施行する責任があり、不適切、脅威的、攻撃的、または有害と判断される行動に対して、適切かつ公正な是正措置を講じます。\n\nコミュニティリーダーは、この行動規範に沿わないコメント、コミット、コード、Wiki編集、Issue、その他の貢献を削除、編集、または拒否する権利と責任を有し、適切な場合にはモデレーション決定の理由を説明します。\n"
 
-# This content is from "CODE_OF_CONDUCT.md", line 38
+# This content is from "CODE_OF_CONDUCT.md", line 33
 msgctxt "chunk_EC6E1121"
 msgid "## Scope\n"
 msgstr "## スコープ\n"
 
-# This content is from "CODE_OF_CONDUCT.md", line 40
+# This content is from "CODE_OF_CONDUCT.md", line 35
 msgctxt "chunk_C8A3DB27"
 msgid "This Code of Conduct applies within all community spaces, and also applies when an individual is officially representing the community in public spaces. Examples of representing our community include using an official e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event.\n"
 msgstr "この行動規範は、すべてのコミュニティスペース内で適用され、また個人が公式にコミュニティを代表して公共の場で行動する場合にも適用されます。私たちのコミュニティを代表する例としては、公式メールアドレスの使用、公式ソーシャルメディアアカウントからの投稿、オンラインまたはオフラインのイベントで任命された代表者としての行動などが含まれます。\n"
 
-# This content is from "CODE_OF_CONDUCT.md", line 42
+# This content is from "CODE_OF_CONDUCT.md", line 37
 msgctxt "chunk_B7BB8282"
 msgid "## Enforcement\n"
 msgstr "## 強制適用\n"
 
-# This content is from "CODE_OF_CONDUCT.md", line 44
+# This content is from "CODE_OF_CONDUCT.md", line 39
 msgctxt "chunk_A6D4A659"
 msgid "Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at aw@funstory.ai . All complaints will be reviewed and investigated promptly and fairly.\n\nAll community leaders are obligated to respect the privacy and security of the reporter of any incident.\n"
 msgstr "虐待的、嫌がらせ的、またはその他容認できない行為の事例は、施行を担当するコミュニティリーダーに aw@funstory.ai まで報告することができます。すべての苦情は迅速かつ公平に審査・調査されます。\n\nすべてのコミュニティリーダーは、いかなる事件の報告者のプライバシーとセキュリティを尊重する義務があります。\n"
 
-# This content is from "CODE_OF_CONDUCT.md", line 48
+# This content is from "CODE_OF_CONDUCT.md", line 43
 msgctxt "chunk_917146E0"
 msgid "## Enforcement Guidelines\n"
 msgstr "## 施行ガイドライン\n"
 
-# This content is from "CODE_OF_CONDUCT.md", line 50
+# This content is from "CODE_OF_CONDUCT.md", line 45
 msgctxt "chunk_40C51FE2"
 msgid "Community leaders will follow these Community Impact Guidelines in determining the consequences for any action they deem in violation of this Code of Conduct:\n"
 msgstr "コミュニティリーダーは、この行動規範に違反すると判断した行動に対して、以下のコミュニティ影響ガイドラインに従って結果を決定します：\n"
 
-# This content is from "CODE_OF_CONDUCT.md", line 52
+# This content is from "CODE_OF_CONDUCT.md", line 47
 msgctxt "chunk_7DC402F6"
 msgid "### 1. Correction\n"
 msgstr "### 1. 修正\n"
 
-# This content is from "CODE_OF_CONDUCT.md", line 54
+# This content is from "CODE_OF_CONDUCT.md", line 49
 msgctxt "chunk_589DD968"
 msgid "**Community Impact**: Use of inappropriate language or other behavior deemed unprofessional or unwelcome in the community.\n\n**Consequence**: A private, written warning from community leaders, providing clarity around the nature of the violation and an explanation of why the behavior was inappropriate. A public apology may be requested.\n"
 msgstr "**コミュニティへの影響**: 不適切な言語の使用や、コミュニティにおいて非専門的または歓迎されないと見なされるその他の行動。\n\n**結果**: コミュニティリーダーからの私的な書面による警告。違反の性質と、なぜその行動が不適切であったかの説明が明確にされます。公的な謝罪が求められる場合があります。\n"
 
-# This content is from "CODE_OF_CONDUCT.md", line 58
+# This content is from "CODE_OF_CONDUCT.md", line 53
 msgctxt "chunk_4AE59666"
 msgid "### 2. Warning\n"
 msgstr "### 2. 警告\n"
 
-# This content is from "CODE_OF_CONDUCT.md", line 60
+# This content is from "CODE_OF_CONDUCT.md", line 55
 msgctxt "chunk_8645DDC9"
 msgid "**Community Impact**: A violation through a single incident or series of actions.\n\n**Consequence**: A warning with consequences for continued behavior. No interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, for a specified period of time. This includes avoiding interactions in community spaces as well as external channels like social media. Violating these terms may lead to a temporary or permanent ban.\n"
 msgstr "**コミュニティへの影響**: 単一のインシデントまたは一連の行動による違反。\n\n**結果**: 継続的な行動に対する警告とその結果。指定された期間、関係者との一切の関わりを持たないこと。これには、行動規範を施行する人々への未承諾の接触や、コミュニティスペースだけでなくソーシャルメディアなどの外部チャネルでの関わりを避けることも含まれます。これらの条件に違反した場合、一時的または永久的な利用停止処分となる可能性があります。\n"
 
-# This content is from "CODE_OF_CONDUCT.md", line 64
+# This content is from "CODE_OF_CONDUCT.md", line 59
 msgctxt "chunk_357EC7B7"
 msgid "### 3. Temporary Ban\n"
 msgstr "### 3. 一時的な利用停止\n"
 
-# This content is from "CODE_OF_CONDUCT.md", line 66
+# This content is from "CODE_OF_CONDUCT.md", line 61
 msgctxt "chunk_855D5A2A"
 msgid "**Community Impact**: A serious violation of community standards, including sustained inappropriate behavior.\n\n**Consequence**: A temporary ban from any sort of interaction or public communication with the community for a specified period of time. No public or private interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, is allowed during this period. Violating these terms may lead to a permanent ban.\n"
 msgstr "**コミュニティへの影響**: コミュニティ基準に対する深刻な違反、持続的な不適切な行動を含む。\n\n**結果**: 指定された期間、コミュニティとのあらゆる種類の交流や公開コミュニケーションからの一時的な利用停止。この期間中は、関係者との公開または非公開の交流、行動規範を施行する者との未承諾の交流も禁止されます。これらの条件に違反すると、永久追放につながる可能性があります。\n"
 
-# This content is from "CODE_OF_CONDUCT.md", line 70
+# This content is from "CODE_OF_CONDUCT.md", line 65
 msgctxt "chunk_7C7DB2B5"
 msgid "### 4. Permanent Ban\n"
 msgstr "### 4. 永久追放\n"
 
-# This content is from "CODE_OF_CONDUCT.md", line 72
+# This content is from "CODE_OF_CONDUCT.md", line 67
 msgctxt "chunk_FAF381FA"
 msgid "**Community Impact**: Demonstrating a pattern of violation of community standards, including sustained inappropriate behavior,  harassment of an individual, or aggression toward or disparagement of classes of individuals.\n\n**Consequence**: A permanent ban from any sort of public interaction within the community.\n"
 msgstr "**コミュニティへの影響**: コミュニティ基準の違反パターンを示す行為、持続的な不適切な行動、個人に対する嫌がらせ、または特定のグループに対する攻撃や中傷を含む。\n\n**結果**: コミュニティ内でのあらゆる種類の公開的な関与からの永久追放。\n"
 
-# This content is from "CODE_OF_CONDUCT.md", line 76
+# This content is from "CODE_OF_CONDUCT.md", line 71
 msgctxt "chunk_5C710B75"
 msgid "## Attribution\n"
 msgstr "## 帰属\n"
 
-# This content is from "CODE_OF_CONDUCT.md", line 78
+# This content is from "CODE_OF_CONDUCT.md", line 73
 msgctxt "chunk_994E96A8"
 msgid "This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 2.0, available at https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.\n\nCommunity Impact Guidelines were inspired by [Mozilla's code of conduct enforcement ladder](https://github.com/mozilla/diversity).\n\n[homepage]: https://www.contributor-covenant.org\n\nFor answers to common questions about this code of conduct, see the FAQ at https://www.contributor-covenant.org/faq. Translations are available at https://www.contributor-covenant.org/translations.\n"
 msgstr "この行動規範は、[Contributor Covenant][homepage]のバージョン2.0を基に作成されており、https://www.contributor-covenant.org/version/2/0/code_of_conduct.html で閲覧可能です。\n\nコミュニティへの影響に関するガイドラインは、[Mozillaの行動規範施行ラダー](https://github.com/mozilla/diversity)に着想を得ています。\n\n[homepage]: https://www.contributor-covenant.org\n\nこの行動規範に関するよくある質問への回答は、FAQ https://www.contributor-covenant.org/faq を参照してください。翻訳版は https://www.contributor-covenant.org/translations で利用可能です。\n"

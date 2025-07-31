@@ -13,17 +13,15 @@ Exemplos de comportamentos que contribuem para um ambiente positivo em nossa com
 * Demonstrar empatia e gentileza em relação às outras pessoas
 * Ser respeitoso com opiniões, pontos de vista e experiências diferentes
 * Dar e aceitar com elegância feedbacks construtivos
-* Assumir responsabilidade e pedir desculpas àqueles afetados por nossos erros,
-  e aprender com a experiência
-* Focar no que é melhor não apenas para nós como indivíduos, mas para toda a
-  comunidade
+* Assumir responsabilidade e pedir desculpas àqueles afetados por nossos erros, e aprender com a experiência
+* Focar no que é melhor não apenas para nós como indivíduos, mas para toda a comunidade
 
 Exemplos de comportamentos inaceitáveis incluem:
 
 * O uso de linguagem ou imagens sexualizadas, e atenção ou avanços sexuais de qualquer tipo  
-* Comentários provocativos, insultuosos ou depreciativos, e ataques pessoais ou políticos  
+* Trollagem, comentários insultuosos ou depreciativos, e ataques pessoais ou políticos  
 * Assédio público ou privado  
-* Publicar informações privadas de outras pessoas, como endereço físico ou e-mail, sem sua permissão explícita  
+* Publicar informações privadas de outras pessoas, como endereço físico ou de e-mail, sem sua permissão explícita  
 * Outros comportamentos que possam razoavelmente ser considerados inadequados em um ambiente profissional
 
 ## Responsabilidades de Execução

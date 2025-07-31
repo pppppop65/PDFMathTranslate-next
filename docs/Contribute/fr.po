@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: mkdocs-markdown-translator\n"
-"POT-Creation-Date: 2025-07-31 17:06+0800\n"
-"PO-Revision-Date: 2025-07-31 17:06+0800\n"
+"POT-Creation-Date: 2025-07-31 17:13+0800\n"
+"PO-Revision-Date: 2025-07-31 17:13+0800\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -244,106 +244,106 @@ msgid "Examples of behavior that contributes to a positive environment for our c
 msgstr "Exemples de comportements qui contribuent à un environnement positif pour notre communauté incluent :\n"
 
 # This content is from "CODE_OF_CONDUCT.md", line 13
-msgctxt "chunk_49483E30"
-msgid "* Demonstrating empathy and kindness toward other people\n* Being respectful of differing opinions, viewpoints, and experiences\n* Giving and gracefully accepting constructive feedback\n* Accepting responsibility and apologizing to those affected by our mistakes,\n  and learning from the experience\n* Focusing on what is best not just for us as individuals, but for the\n  overall community\n"
-msgstr "* Faire preuve d'empathie et de bienveillance envers les autres\n* Respecter les opinions, points de vue et expériences différents\n* Donner et accepter avec grâce les retours constructifs\n* Assumer la responsabilité et présenter des excuses à ceux affectés par nos erreurs, et apprendre de l'expérience\n* Se concentrer sur ce qui est le mieux, non seulement pour nous en tant qu'individus, mais pour l'ensemble de la communauté\n"
+msgctxt "chunk_8C8AA428"
+msgid "* Demonstrating empathy and kindness toward other people\n* Being respectful of differing opinions, viewpoints, and experiences\n* Giving and gracefully accepting constructive feedback\n* Accepting responsibility and apologizing to those affected by our mistakes, and learning from the experience\n* Focusing on what is best not just for us as individuals, but for the overall community\n"
+msgstr "* Faire preuve d'empathie et de bienveillance envers les autres\n* Respecter les opinions, points de vue et expériences différents\n* Donner et accepter avec grâce les retours constructifs\n* Assumer la responsabilité et présenter des excuses à ceux affectés par nos erreurs, et tirer des leçons de l'expérience\n* Se concentrer sur ce qui est le meilleur non seulement pour nous en tant qu'individus, mais pour l'ensemble de la communauté\n"
 
-# This content is from "CODE_OF_CONDUCT.md", line 21
+# This content is from "CODE_OF_CONDUCT.md", line 19
 msgctxt "chunk_9D3CC4B6"
 msgid "Examples of unacceptable behavior include:\n"
 msgstr "Exemples de comportements inacceptables incluent :\n"
 
-# This content is from "CODE_OF_CONDUCT.md", line 23
-msgctxt "chunk_CEF666AD"
-msgid "* The use of sexualized language or imagery, and sexual attention or\n  advances of any kind\n* Trolling, insulting or derogatory comments, and personal or political attacks\n* Public or private harassment\n* Publishing others' private information, such as a physical or email\n  address, without their explicit permission\n* Other conduct which could reasonably be considered inappropriate in a\n  professional setting\n"
-msgstr "* L'utilisation d'un langage ou d'imagery sexualisé, et toute attention ou avance sexuelle de quelque nature que ce soit  \n* Le trolling, les commentaires insultants ou désobligeants, et les attaques personnelles ou politiques  \n* Le harcèlement public ou privé  \n* La publication d'informations privées d'autrui, telles qu'une adresse physique ou électronique, sans leur permission explicite  \n* Tout autre comportement qui pourrait raisonnablement être considéré comme inapproprié dans un cadre professionnel\n"
+# This content is from "CODE_OF_CONDUCT.md", line 21
+msgctxt "chunk_06867E28"
+msgid "* The use of sexualized language or imagery, and sexual attention or advances of any kind\n* Trolling, insulting or derogatory comments, and personal or political attacks\n* Public or private harassment\n* Publishing others' private information, such as a physical or email address, without their explicit permission\n* Other conduct which could reasonably be considered inappropriate in a professional setting\n"
+msgstr "* L'utilisation d'un langage ou d'imagerie sexualisés, ainsi que toute attention ou avance de nature sexuelle  \n* Le trolling, les commentaires insultants ou désobligeants, et les attaques personnelles ou politiques  \n* Le harcèlement en public ou en privé  \n* La publication d'informations privées d'autrui, telles qu'une adresse physique ou électronique, sans leur permission explicite  \n* Tout autre comportement qui pourrait raisonnablement être considéré comme inapproprié dans un cadre professionnel\n"
 
-# This content is from "CODE_OF_CONDUCT.md", line 32
+# This content is from "CODE_OF_CONDUCT.md", line 27
 msgctxt "chunk_F1541146"
 msgid "## Enforcement Responsibilities\n"
 msgstr "## Responsabilités d'application\n"
 
-# This content is from "CODE_OF_CONDUCT.md", line 34
+# This content is from "CODE_OF_CONDUCT.md", line 29
 msgctxt "chunk_EE74991B"
 msgid "Community leaders are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful.\n\nCommunity leaders have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, and will communicate reasons for moderation decisions when appropriate.\n"
 msgstr "Les responsables de la communauté sont chargés de clarifier et de faire respecter nos normes de comportement acceptable et prendront les mesures correctives appropriées et équitables en réponse à tout comportement qu'ils jugent inapproprié, menaçant, offensant ou nuisible.\n\nLes responsables de la communauté ont le droit et la responsabilité de supprimer, modifier ou rejeter les commentaires, commits, code, modifications de wiki, problèmes et autres contributions qui ne sont pas conformes à ce Code de conduite, et communiqueront les raisons des décisions de modération lorsque cela est approprié.\n"
 
-# This content is from "CODE_OF_CONDUCT.md", line 38
+# This content is from "CODE_OF_CONDUCT.md", line 33
 msgctxt "chunk_EC6E1121"
 msgid "## Scope\n"
 msgstr "## Portée\n"
 
-# This content is from "CODE_OF_CONDUCT.md", line 40
+# This content is from "CODE_OF_CONDUCT.md", line 35
 msgctxt "chunk_C8A3DB27"
 msgid "This Code of Conduct applies within all community spaces, and also applies when an individual is officially representing the community in public spaces. Examples of representing our community include using an official e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event.\n"
 msgstr "Ce Code de conduite s'applique dans tous les espaces communautaires, ainsi que lorsqu'un individu représente officiellement la communauté dans des espaces publics. Des exemples de représentation de notre communauté incluent l'utilisation d'une adresse e-mail officielle, la publication via un compte officiel sur les réseaux sociaux ou le fait d'agir en tant que représentant désigné lors d'un événement en ligne ou hors ligne.\n"
 
-# This content is from "CODE_OF_CONDUCT.md", line 42
+# This content is from "CODE_OF_CONDUCT.md", line 37
 msgctxt "chunk_B7BB8282"
 msgid "## Enforcement\n"
 msgstr "## Application\n"
 
-# This content is from "CODE_OF_CONDUCT.md", line 44
+# This content is from "CODE_OF_CONDUCT.md", line 39
 msgctxt "chunk_A6D4A659"
 msgid "Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at aw@funstory.ai . All complaints will be reviewed and investigated promptly and fairly.\n\nAll community leaders are obligated to respect the privacy and security of the reporter of any incident.\n"
 msgstr "Les cas de comportement abusif, de harcèlement ou tout autre comportement inacceptable peuvent être signalés aux responsables de la communauté chargés de l'application à l'adresse aw@funstory.ai. Toutes les plaintes seront examinées et traitées rapidement et équitablement.\n\nTous les responsables de la communauté sont tenus de respecter la confidentialité et la sécurité du signalant de tout incident.\n"
 
-# This content is from "CODE_OF_CONDUCT.md", line 48
+# This content is from "CODE_OF_CONDUCT.md", line 43
 msgctxt "chunk_917146E0"
 msgid "## Enforcement Guidelines\n"
 msgstr "## Directives d'application\n"
 
-# This content is from "CODE_OF_CONDUCT.md", line 50
+# This content is from "CODE_OF_CONDUCT.md", line 45
 msgctxt "chunk_40C51FE2"
 msgid "Community leaders will follow these Community Impact Guidelines in determining the consequences for any action they deem in violation of this Code of Conduct:\n"
 msgstr "Les responsables de la communauté suivront ces directives d'impact communautaire pour déterminer les conséquences de toute action qu'ils jugent en violation de ce code de conduite :\n"
 
-# This content is from "CODE_OF_CONDUCT.md", line 52
+# This content is from "CODE_OF_CONDUCT.md", line 47
 msgctxt "chunk_7DC402F6"
 msgid "### 1. Correction\n"
 msgstr "### 1. Correction\n"
 
-# This content is from "CODE_OF_CONDUCT.md", line 54
+# This content is from "CODE_OF_CONDUCT.md", line 49
 msgctxt "chunk_589DD968"
 msgid "**Community Impact**: Use of inappropriate language or other behavior deemed unprofessional or unwelcome in the community.\n\n**Consequence**: A private, written warning from community leaders, providing clarity around the nature of the violation and an explanation of why the behavior was inappropriate. A public apology may be requested.\n"
 msgstr "**Impact sur la communauté** : Utilisation d'un langage inapproprié ou d'un autre comportement jugé non professionnel ou indésirable dans la communauté.\n\n**Conséquence** : Un avertissement écrit et privé de la part des responsables de la communauté, clarifiant la nature de la violation et expliquant pourquoi le comportement était inapproprié. Des excuses publiques peuvent être demandées.\n"
 
-# This content is from "CODE_OF_CONDUCT.md", line 58
+# This content is from "CODE_OF_CONDUCT.md", line 53
 msgctxt "chunk_4AE59666"
 msgid "### 2. Warning\n"
 msgstr "### 2. Avertissement\n"
 
-# This content is from "CODE_OF_CONDUCT.md", line 60
+# This content is from "CODE_OF_CONDUCT.md", line 55
 msgctxt "chunk_8645DDC9"
 msgid "**Community Impact**: A violation through a single incident or series of actions.\n\n**Consequence**: A warning with consequences for continued behavior. No interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, for a specified period of time. This includes avoiding interactions in community spaces as well as external channels like social media. Violating these terms may lead to a temporary or permanent ban.\n"
 msgstr "**Impact sur la communauté** : Une violation par un incident unique ou une série d'actions.\n\n**Conséquence** : Un avertissement avec des conséquences pour un comportement persistant. Aucune interaction avec les personnes concernées, y compris des interactions non sollicitées avec celles chargées de faire respecter le Code de conduite, pendant une période spécifiée. Cela inclut d'éviter les interactions dans les espaces communautaires ainsi que sur les canaux externes comme les réseaux sociaux. Le non-respect de ces conditions peut entraîner une suspension temporaire ou un bannissement permanent.\n"
 
-# This content is from "CODE_OF_CONDUCT.md", line 64
+# This content is from "CODE_OF_CONDUCT.md", line 59
 msgctxt "chunk_357EC7B7"
 msgid "### 3. Temporary Ban\n"
 msgstr "### 3. Suspension temporaire\n"
 
-# This content is from "CODE_OF_CONDUCT.md", line 66
+# This content is from "CODE_OF_CONDUCT.md", line 61
 msgctxt "chunk_855D5A2A"
 msgid "**Community Impact**: A serious violation of community standards, including sustained inappropriate behavior.\n\n**Consequence**: A temporary ban from any sort of interaction or public communication with the community for a specified period of time. No public or private interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, is allowed during this period. Violating these terms may lead to a permanent ban.\n"
 msgstr "**Impact sur la communauté** : Une violation grave des normes de la communauté, incluant un comportement inapproprié persistant.\n\n**Conséquence** : Une suspension temporaire de toute interaction ou communication publique avec la communauté pour une période déterminée. Aucune interaction publique ou privée avec les personnes concernées, y compris des interactions non sollicitées avec celles chargées de faire respecter le Code de conduite, n'est autorisée pendant cette période. La violation de ces conditions peut entraîner un bannissement permanent.\n"
 
-# This content is from "CODE_OF_CONDUCT.md", line 70
+# This content is from "CODE_OF_CONDUCT.md", line 65
 msgctxt "chunk_7C7DB2B5"
 msgid "### 4. Permanent Ban\n"
 msgstr "### 4. Bannissement permanent\n"
 
-# This content is from "CODE_OF_CONDUCT.md", line 72
+# This content is from "CODE_OF_CONDUCT.md", line 67
 msgctxt "chunk_FAF381FA"
 msgid "**Community Impact**: Demonstrating a pattern of violation of community standards, including sustained inappropriate behavior,  harassment of an individual, or aggression toward or disparagement of classes of individuals.\n\n**Consequence**: A permanent ban from any sort of public interaction within the community.\n"
 msgstr "**Impact sur la communauté** : Démontrer un schéma de violation des normes de la communauté, incluant un comportement inapproprié persistant, le harcèlement d'un individu ou l'agressivité ou le dénigrement envers des groupes d'individus.\n\n**Conséquence** : Un bannissement permanent de toute forme d'interaction publique au sein de la communauté.\n"
 
-# This content is from "CODE_OF_CONDUCT.md", line 76
+# This content is from "CODE_OF_CONDUCT.md", line 71
 msgctxt "chunk_5C710B75"
 msgid "## Attribution\n"
 msgstr "## Attribution\n"
 
-# This content is from "CODE_OF_CONDUCT.md", line 78
+# This content is from "CODE_OF_CONDUCT.md", line 73
 msgctxt "chunk_994E96A8"
 msgid "This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 2.0, available at https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.\n\nCommunity Impact Guidelines were inspired by [Mozilla's code of conduct enforcement ladder](https://github.com/mozilla/diversity).\n\n[homepage]: https://www.contributor-covenant.org\n\nFor answers to common questions about this code of conduct, see the FAQ at https://www.contributor-covenant.org/faq. Translations are available at https://www.contributor-covenant.org/translations.\n"
 msgstr "Ce Code de conduite est adapté du [Contributor Covenant][homepage], version 2.0, disponible à l'adresse https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.\n\nLes directives d'impact communautaire ont été inspirées par [l'échelle d'application du code de conduite de Mozilla](https://github.com/mozilla/diversity).\n\n[homepage]: https://www.contributor-covenant.org\n\nPour des réponses aux questions courantes sur ce code de conduite, consultez la FAQ à l'adresse https://www.contributor-covenant.org/faq. Des traductions sont disponibles à l'adresse https://www.contributor-covenant.org/translations.\n"

@@ -12,18 +12,16 @@ Esempi di comportamenti che contribuiscono a creare un ambiente positivo per la 
 
 * Dimostrare empatia e gentilezza verso gli altri
 * Essere rispettosi delle opinioni, dei punti di vista e delle esperienze diverse
-* Dare e accettare con grazia feedback costruttivi
-* Accettare le responsabilità e scusarsi con coloro che sono stati colpiti dai nostri errori,
-  e imparare dall'esperienza
-* Concentrarsi su ciò che è meglio non solo per noi come individui, ma per l'intera
-  comunità
+* Offrire e accettare con grazia feedback costruttivi
+* Assumersi la responsabilità e scusarsi con coloro che sono stati colpiti dai nostri errori, imparando dall'esperienza
+* Concentrarsi su ciò che è meglio non solo per noi come individui, ma per l'intera comunità
 
 Esempi di comportamenti inaccettabili includono:
 
-* L'uso di linguaggio o immagini sessualizzati, e attenzioni o avances sessuali di qualsiasi tipo
+* L'uso di linguaggio o immagini a sfondo sessuale, e attenzioni o avances sessuali di qualsiasi tipo
 * Trollaggio, commenti insultanti o denigratori, e attacchi personali o politici
 * Molestie pubbliche o private
-* Pubblicare informazioni private altrui, come un indirizzo fisico o email, senza il loro esplicito permesso
+* Pubblicare informazioni private altrui, come indirizzi fisici o email, senza il loro esplicito consenso
 * Altri comportamenti che potrebbero ragionevolmente essere considerati inappropriati in un contesto professionale
 
 ## Responsabilità di applicazione

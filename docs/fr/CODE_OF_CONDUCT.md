@@ -13,14 +13,14 @@ Exemples de comportements qui contribuent à un environnement positif pour notre
 * Faire preuve d'empathie et de bienveillance envers les autres
 * Respecter les opinions, points de vue et expériences différents
 * Donner et accepter avec grâce les retours constructifs
-* Assumer la responsabilité et présenter des excuses à ceux affectés par nos erreurs, et apprendre de l'expérience
-* Se concentrer sur ce qui est le mieux, non seulement pour nous en tant qu'individus, mais pour l'ensemble de la communauté
+* Assumer la responsabilité et présenter des excuses à ceux affectés par nos erreurs, et tirer des leçons de l'expérience
+* Se concentrer sur ce qui est le meilleur non seulement pour nous en tant qu'individus, mais pour l'ensemble de la communauté
 
 Exemples de comportements inacceptables incluent :
 
-* L'utilisation d'un langage ou d'imagery sexualisé, et toute attention ou avance sexuelle de quelque nature que ce soit  
+* L'utilisation d'un langage ou d'imagerie sexualisés, ainsi que toute attention ou avance de nature sexuelle  
 * Le trolling, les commentaires insultants ou désobligeants, et les attaques personnelles ou politiques  
-* Le harcèlement public ou privé  
+* Le harcèlement en public ou en privé  
 * La publication d'informations privées d'autrui, telles qu'une adresse physique ou électronique, sans leur permission explicite  
 * Tout autre comportement qui pourrait raisonnablement être considéré comme inapproprié dans un cadre professionnel
 

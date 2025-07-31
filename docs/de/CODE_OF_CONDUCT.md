@@ -12,18 +12,16 @@ Beispiele für Verhaltensweisen, die zu einer positiven Umgebung für unsere Gem
 
 * Empathie und Freundlichkeit gegenüber anderen Menschen zeigen
 * Respekt vor unterschiedlichen Meinungen, Ansichten und Erfahrungen haben
-* Konstruktives Feedback geben und es annehmen
-* Verantwortung übernehmen und sich bei den Betroffenen für unsere Fehler entschuldigen,
-  und aus den Erfahrungen lernen
-* Sich darauf konzentrieren, was nicht nur für uns als Einzelne, sondern für die
-  gesamte Gemeinschaft am besten ist
+* Konstruktives Feedback geben und es höflich entgegennehmen
+* Verantwortung übernehmen und sich bei denjenigen entschuldigen, die von unseren Fehlern betroffen sind, und aus den Erfahrungen lernen
+* Sich darauf konzentrieren, was nicht nur für uns als Einzelne, sondern für die gesamte Gemeinschaft am besten ist
 
 Beispiele für inakzeptables Verhalten sind:
 
-* Die Verwendung sexualisierter Sprache oder Bilder sowie sexueller Aufmerksamkeit oder Annäherungsversuche jeglicher Art  
+* Die Verwendung sexualisierter Sprache oder Bilder sowie sexuell aufgeladene Aufmerksamkeit oder Annäherungsversuche jeglicher Art  
 * Trollen, beleidigende oder abfällige Kommentare sowie persönliche oder politische Angriffe  
-* Öffentliche oder private Belästigung  
-* Das Veröffentlichen privater Informationen anderer, wie physischer oder E-Mail-Adressen, ohne deren ausdrückliche Erlaubnis  
+* Belästigung in der Öffentlichkeit oder im Privaten  
+* Das Veröffentlichen privater Informationen anderer, wie einer physischen Adresse oder E-Mail-Adresse, ohne deren ausdrückliche Erlaubnis  
 * Anderes Verhalten, das vernünftigerweise als unangemessen in einem professionellen Umfeld angesehen werden könnte
 
 ## Durchsetzungsverantwortung

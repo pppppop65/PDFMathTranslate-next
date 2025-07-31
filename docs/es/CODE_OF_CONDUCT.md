@@ -10,19 +10,19 @@ Nos comprometemos a actuar e interactuar de maneras que contribuyan a una comuni
 
 Ejemplos de comportamiento que contribuyen a un entorno positivo para nuestra comunidad incluyen:
 
-* Demostrar empatía y amabilidad hacia otras personas
-* Ser respetuoso con las diferentes opiniones, puntos de vista y experiencias
-* Dar y aceptar con elegancia comentarios constructivos
-* Aceptar la responsabilidad y disculparse con aquellos afectados por nuestros errores, y aprender de la experiencia
-* Centrarse en lo que es mejor no solo para nosotros como individuos, sino para la comunidad en general
+* Demostrar empatía y amabilidad hacia los demás  
+* Ser respetuoso con las diferentes opiniones, puntos de vista y experiencias  
+* Dar y aceptar con elegancia comentarios constructivos  
+* Aceptar la responsabilidad y disculparse con aquellos afectados por nuestros errores, y aprender de la experiencia  
+* Centrarse en lo que es mejor no solo para nosotros como individuos, sino para toda la comunidad
 
 Ejemplos de comportamientos inaceptables incluyen:
 
-* El uso de lenguaje o imágenes sexualizadas, y atención o avances sexuales de cualquier tipo  
-* Comentarios provocadores, insultantes o despectivos, y ataques personales o políticos  
+* El uso de lenguaje o imágenes sexualizadas, y atención o insinuaciones sexuales de cualquier tipo  
+* Trolear, comentarios insultantes o despectivos, y ataques personales o políticos  
 * Acoso público o privado  
 * Publicar información privada de otros, como una dirección física o de correo electrónico, sin su permiso explícito  
-* Otros comportamientos que razonablemente podrían considerarse inapropiados en un entorno profesional
+* Otro comportamiento que razonablemente podría considerarse inapropiado en un entorno profesional
 
 ## Responsabilidades de ejecución
 
